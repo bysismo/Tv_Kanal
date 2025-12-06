@@ -1,67 +1,7 @@
 [
   {
-    "name": "CNNTURK",
-    "streamUrl": "https://www.youtube.com/watch?v=47A8HSjZhR4",
-    "logoUrl": "",
-    "category": "Ulusal"
-  },
-  {
-    "name": "haberturktv",
-    "streamUrl": "https://www.youtube.com/watch?v=PAjRhQT8RQA",
-    "logoUrl": "",
-    "category": "Ulusal"
-  },
-  {
     "name": "Sözcü TV",
-    "streamUrl": "https://www.youtube.com/watch?v=TkOUXt9LPDE",
-    "logoUrl": "",
-    "category": "Haber"
-  },
-  {
-    "name": "Kanal D",
-    "streamUrl": "https://www.youtube.com/watch?v=F1jCG7SrrUI",
-    "logoUrl": "",
-    "category": "Ulusal"
-  },
-  {
-    "name": "Show TV",
-    "streamUrl": "https://www.youtube.com/watch?v=A61qa7GS28E",
-    "logoUrl": "",
-    "category": "Ulusal"
-  },
-  {
-    "name": "NTV",
-    "streamUrl": "https://www.youtube.com/watch?v=n0EcfY1ZrgY",
-    "logoUrl": "",
-    "category": "Haber"
-  },
-  {
-    "name": "A Haber",
-    "streamUrl": "https://www.youtube.com/watch?v=zeUYTYbJuQs",
-    "logoUrl": "",
-    "category": "Haber"
-  },
-  {
-    "name": "Haber Global",
-    "streamUrl": "https://www.youtube.com/watch?v=zHPVmFmnyTg",
-    "logoUrl": "",
-    "category": "Haber"
-  },
-  {
-    "name": "Teve2",
-    "streamUrl": "https://www.youtube.com/watch?v=EnpX_Hjr9II",
-    "logoUrl": "",
-    "category": "Ulusal"
-  },
-  {
-    "name": "Flash TV",
-    "streamUrl": "https://www.youtube.com/watch?v=yLAQh3Cuec0",
-    "logoUrl": "",
-    "category": "Ulusal"
-  },
-  {
-    "name": "TGRT Haber",
-    "streamUrl": "https://www.youtube.com/watch?v=MhwCtHiUa0s",
+    "streamUrl": "https://www.youtube.com/@Sozcutelevizyonu",
     "logoUrl": "",
     "category": "Haber"
   },
