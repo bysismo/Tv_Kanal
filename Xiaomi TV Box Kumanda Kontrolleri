@@ -1,0 +1,21 @@
+Xiaomi Kumanda Kontrolleri
+🎛️ Liste Kapalıyken
+Tuş	Aksiyon
+🔘 OK	📂 Liste açılır
+▶️ Sağ	⏭️ Sonraki kanal → Oynat
+◀️ Sol	⏮️ Önceki kanal → Oynat
+⬆️ Yukarı	📂 Liste açılır
+⬇️ Aşağı	📂 Liste açılır
+↩️ Back (1x)	⏹️ Video durdur
+↩️↩️ Back (2x)	❌ Uygulamadan çık
+📂 Liste Açıkken
+Tuş	Aksiyon
+⬆️⬇️ Yukarı / Aşağı	📜 Listede gezin
+🔘 OK	▶️ Kanalı oynat + 📁 Liste kapanır
+↩️ Back	❎ Liste kapanır (seçim yapılmaz)
+⏱️ Süre dolunca	📁 Liste otomatik kapanır
+✨ Ekstra
+
+🔔 Kanal değiştiğinde → Kanal adı 3 saniye görünür
+
+🔊 Ses kontrolü → Sistem sesi (kumandanın Volume tuşları)
