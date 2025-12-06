@@ -1,139 +1,13 @@
 [
   {
     "name": "CNNTURK",
-    "streamUrl": "https://www.youtube.com/watch?v=zNNLlTsA4R0",
+    "streamUrl": "https://www.youtube.com/@cnnturk",
     "logoUrl": "",
     "category": "Ulusal"
   },
   {
-    "name": "Kanal D",
-    "streamUrl": "https://www.youtube.com/watch?v=T6J4k8vB3xC",
-    "logoUrl": "",
-    "category": "Ulusal"
-  },
-  {
-    "name": "Show TV",
-    "streamUrl": "https://www.youtube.com/watch?v=N4K7L2m9x6E",
-    "logoUrl": "",
-    "category": "Ulusal"
-  },
-  {
-    "name": "Star TV",
-    "streamUrl": "https://www.youtube.com/watch?v=K5R8t7vL9yA",
-    "logoUrl": "",
-    "category": "Ulusal"
-  },
-  {
-    "name": "TRT 1",
-    "streamUrl": "https://tv-trt1.medya.trt.com.tr/master.m3u8",
-    "logoUrl": "",
-    "category": "Ulusal"
-  },
-  {
-    "name": "TRT 2",
-    "streamUrl": "https://tv-trt2.medya.trt.com.tr/master.m3u8",
-    "logoUrl": "",
-    "category": "Ulusal"
-  },
-  {
-    "name": "TRT Haber",
-    "streamUrl": "https://tv-trthaber.medya.trt.com.tr/master.m3u8",
-    "logoUrl": "",
-    "category": "Haber"
-  },
-  {
-    "name": "TRT Spor",
-    "streamUrl": "https://tv-trtspor1.medya.trt.com.tr/master.m3u8",
-    "logoUrl": "",
-    "category": "Spor"
-  },
-  {
-    "name": "TRT Belgesel",
-    "streamUrl": "https://tv-trtbelgesel.medya.trt.com.tr/master.m3u8",
-    "logoUrl": "",
-    "category": "Belgesel"
-  },
-  {
-    "name": "TRT Çocuk",
-    "streamUrl": "https://tv-trtcocuk.medya.trt.com.tr/master.m3u8",
-    "logoUrl": "",
-    "category": "Çocuk"
-  },
-  {
-    "name": "TRT Müzik",
-    "streamUrl": "https://tv-trtmuzik.medya.trt.com.tr/master.m3u8",
-    "logoUrl": "",
-    "category": "Müzik"
-  },
-  {
-    "name": "TRT World",
-    "streamUrl": "https://tv-trtworld.medya.trt.com.tr/master.m3u8",
-    "logoUrl": "",
-    "category": "Uluslararası"
-  },
-  {
-    "name": "CNN Türk",
-    "streamUrl": "https://www.youtube.com/watch?v=zNNLlTsA4R0",
-    "logoUrl": "",
-    "category": "Haber"
-  },
-  {
-    "name": "NTV",
-    "streamUrl": "https://www.youtube.com/watch?v=pqq5c6k70kk",
-    "logoUrl": "",
-    "category": "Haber"
-  },
-  {
-    "name": "Habertürk",
-    "streamUrl": "https://www.youtube.com/watch?v=4c9yJ8tE2cA",
-    "logoUrl": "",
-    "category": "Haber"
-  },
-  {
-    "name": "A Haber",
-    "streamUrl": "https://www.youtube.com/watch?v=Q7K3nR8s9tM",
-    "logoUrl": "",
-    "category": "Haber"
-  },
-  {
-    "name": "Halk TV",
-    "streamUrl": "https://www.youtube.com/watch?v=M6L2pK8x3nB",
-    "logoUrl": "",
-    "category": "Haber"
-  },
-  {
-    "name": "TELE 1",
-    "streamUrl": "https://www.youtube.com/@tele1tv",
-    "logoUrl": "",
-    "category": "Haber"
-  },
-  {
-    "name": "Haber Global",
-    "streamUrl": "https://www.youtube.com/@HaberGlobal",
-    "logoUrl": "",
-    "category": "Haber"
-  },
-  {
-    "name": "Bloomberg HT",
-    "streamUrl": "https://www.youtube.com/@BloombergHTtv",
-    "logoUrl": "",
-    "category": "Ekonomi"
-  },
-  {
-    "name": "TV360",
-    "streamUrl": "https://www.youtube.com/@tv360comtr",
-    "logoUrl": "",
-    "category": "Haber"
-  },
-  {
-    "name": "Beyaz TV",
-    "streamUrl": "https://www.youtube.com/@BeyazTVLive",
-    "logoUrl": "",
-    "category": "Ulusal"
-  },
-  {
-    "name": "Teve2",
-    "streamUrl": "https://www.youtube.com/@teve2",
+    "name": "haberturktv",
+    "streamUrl": "https://www.youtube.com/@haberturktv",
     "logoUrl": "",
     "category": "Ulusal"
   },
@@ -143,46 +17,5 @@
     "logoUrl": "",
     "category": "Haber"
   },
-  {
-    "name": "Kanal 24",
-    "streamUrl": "https://www.youtube.com/@kanal24",
-    "logoUrl": "",
-    "category": "Haber"
-  },
-  {
-    "name": "Flash TV",
-    "streamUrl": "https://www.youtube.com/@flashtv",
-    "logoUrl": "",
-    "category": "Ulusal"
-  },
-  {
-    "name": "TGRT Haber",
-    "streamUrl": "https://www.youtube.com/watch?v=TsB0xYOH0AU",
-    "logoUrl": "",
-    "category": "Haber"
-  },
-  {
-    "name": "Euronews Türkçe",
-    "streamUrl": "https://www.youtube.com/@euronewsturkce",
-    "logoUrl": "",
-    "category": "Haber"
-  },
-  {
-    "name": "TRT Avaz",
-    "streamUrl": "https://tv-trtavaz.medya.trt.com.tr/master.m3u8",
-    "logoUrl": "",
-    "category": "Uluslararası"
-  },
-  {
-    "name": "TRT Arabic",
-    "streamUrl": "https://tv-trtarabic.medya.trt.com.tr/master.m3u8",
-    "logoUrl": "",
-    "category": "Uluslararası"
-  },
-  {
-    "name": "Sports TV",
-    "streamUrl": "https://www.youtube.com/@Sportstv",
-    "logoUrl": "",
-    "category": "Spor"
-  }
+
 ]
