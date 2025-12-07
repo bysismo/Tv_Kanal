@@ -1,1022 +1,176 @@
 [
   {
     "name": "TRT 1",
-    "url": "https://tv-trt1.live.trt.com.tr/master.m3u8",
-    "description": "TRT 1 resmi yayını - Türkiye'nin ana televizyon kanalı",
-    "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/TRT_1_2021_logo.svg/512px-TRT_1_2021_logo.svg.png"
-  },
-  {
-    "name": "TRT 2", 
-    "url": "https://tv-trt2.live.trt.com.tr/master.m3u8",
-    "description": "TRT 2 resmi yayını - Kültür ve sanat odaklı kanal",
-    "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/TRT_2_2021_logo.svg/512px-TRT_2_2021_logo.svg.png"
+    "streamUrl": "https://tv-trt1.medya.trt.com.tr/master.m3u8",
+    "logoUrl": "https://www.trt1.com.tr/assets/img/logo.png",
+    "category": "Ulusal"
   },
   {
     "name": "TRT Haber",
-    "url": "https://tv-trthaber.medya.trt.com.tr/master.m3u8",
-    "description": "TRT Haber resmi yayını - 24 saat haber kanalı",
-    "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/TRT_Haber_2021_logo.svg/512px-TRT_Haber_2021_logo.svg.png"
+    "streamUrl": "https://tv-trthaber.medya.trt.com.tr/master.m3u8",
+    "logoUrl": "https://www.trthaber.com/assets/img/logo.png",
+    "category": "Haber"
   },
   {
     "name": "TRT Spor",
-    "url": "https://tv-trtspor1.live.trt.com.tr/master.m3u8",
-    "description": "TRT Spor resmi yayını - Spor haberleri ve canlı maçlar",
-    "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/TRT_Spor_2021_logo.svg/512px-TRT_Spor_2021_logo.svg.png"
-  },
-  {
-    "name": "TRT Belgesel",
-    "url": "https://tv-trtbelgesel.live.trt.com.tr/master.m3u8",
-    "description": "TRT Belgesel resmi yayını - Belgesel filmler",
-    "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/TRT_Belgesel_2021_logo.svg/512px-TRT_Belgesel_2021_logo.svg.png"
+    "streamUrl": "https://tv-trtspor1.medya.trt.com.tr/master.m3u8",
+    "logoUrl": "https://www.trtspor.com.tr/assets/img/logo.png",
+    "category": "Spor"
   },
   {
     "name": "TRT Çocuk",
-    "url": "https://tv-trtcocuk.live.trt.com.tr/master.m3u8",
-    "description": "TRT Çocuk resmi yayını - Çocuk programları",
-    "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/TRT_%C3%87ocuk_2021_logo.svg/512px-TRT_%C3%87ocuk_2021_logo.svg.png"
+    "streamUrl": "https://tv-trtcocuk.medya.trt.com.tr/master.m3u8",
+    "logoUrl": "https://www.trtcocuk.com.tr/assets/img/logo.png",
+    "category": "Çocuk"
   },
   {
     "name": "TRT Müzik",
-    "url": "https://tv-trtmuzik.live.trt.com.tr/master.m3u8",
-    "description": "TRT Müzik resmi yayını - Türk müziği",
-    "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/TRT_M%C3%BCzik_2021_logo.svg/512px-TRT_M%C3%BCzik_2021_logo.svg.png"
+    "streamUrl": "https://tv-trtmuzik.medya.trt.com.tr/master.m3u8",
+    "logoUrl": "https://www.trtmuzik.com.tr/assets/img/logo.png",
+    "category": "Müzik"
   },
   {
-    "name": "TRT Türk",
-    "url": "https://tv-trtturk.live.trt.com.tr/master.m3u8",
-    "description": "TRT Türk resmi yayını - Uluslararası Türk kanalı",
-    "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/TRT_T%C3%BCrk_2021_logo.svg/512px-TRT_T%C3%BCrk_2021_logo.svg.png"
-  },
-  {
-    "name": "TRT World",
-    "url": "https://tv-trtworld.live.trt.com.tr/master.m3u8",
-    "description": "TRT World resmi yayını - İngilizce haber kanalı",
-    "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/TRT_World_2021_logo.svg/512px-TRT_World_2021_logo.svg.png"
-  },
-  {
-    "name": "Halk TV",
-    "url": "https://halktv.blutv.com/blutv_halktv_live/live.m3u8",
-    "description": "Halk TV canlı yayını - Haber ve tartışma programları",
-    "thumbnailUrl": "https://i.imgur.com/xM0HA30.png"
-  },
-  {
-    "name": "Halk TV Euro",
-    "url": "https://halktv.blutv.com/blutv_halktv_euro_live/live.m3u8",
-    "description": "Halk TV Euro canlı yayını - Avrupa versiyonu",
-    "thumbnailUrl": "https://i.imgur.com/xM0HA30.png"
-  },
-  {
-    "name": "Dream Türk",
-    "url": "https://live.duhnet.tv/S2/HLS_LIVE/dreamturknp/playlist.m3u8",
-    "description": "Dream Türk canlı yayını - Türk müziği ve eğlence",
-    "thumbnailUrl": "https://i.imgur.com/vJ8VaZi.png"
-  },
-  {
-    "name": "Euro D",
-    "url": "https://live.duhnet.tv/S2/HLS_LIVE/eurodnp/playlist.m3u8",
-    "description": "Euro D canlı yayını - Avrupa dizileri",
-    "thumbnailUrl": "https://i.imgur.com/x9kHsXo.png"
-  },
-  {
-    "name": "EuroStar TV",
-    "url": "https://mn-nl.mncdn.com/blutv_eurostar2/live.m3u8",
-    "description": "EuroStar TV canlı yayını - Müzik ve eğlence",
-    "thumbnailUrl": "https://i.imgur.com/kb165Ot.png"
-  },
-  {
-    "name": "Flash TV",
-    "url": "https://mn-nl.mncdn.com/blutv_flashtv/live.m3u8",
-    "description": "Flash TV canlı yayını - Haber kanalı",
-    "thumbnailUrl": "https://i.imgur.com/L0NHKBM.png"
-  },
-  {
-    "name": "EkoTürk",
-    "url": "https://mn-nl.mncdn.com/blutv_ekoturk2/live.m3u8",
-    "description": "EkoTürk canlı yayını - Ekonomi haberleri",
-    "thumbnailUrl": "https://i.imgur.com/TMTnMI3.png"
-  },
-  {
-    "name": "Bizimev TV",
-    "url": "https://mn-nl.mncdn.com/blutv_bizimev/bizimev_sd.smil/playlist.m3u8",
-    "description": "Bizimev TV canlı yayını - Ev ve yaşam",
-    "thumbnailUrl": "https://i.imgur.com/eJa6sFY.png"
-  },
-  {
-    "name": "4U TV",
-    "url": "https://hls.4utv.live/hls/stream.m3u8",
-    "description": "4U TV canlı yayını - Eğlence kanalı",
-    "thumbnailUrl": "https://i.imgur.com/PexhKwp.png"
-  },
-  {
-    "name": "Milyon TV",
-    "url": "https://sosyoapp-live.cdnnew.com/sosyo/buraya-bir-isim-verin.m3u8",
-    "description": "Milyon TV canlı yayını - Müzik kanalı",
-    "thumbnailUrl": "https://i.imgur.com/lEIFDwo.png"
-  },
-  {
-    "name": "360 TV",
-    "url": "https://turkmedya-live.ercdn.net/tv360/tv360.m3u8",
-    "description": "360 TV canlı yayını - Haber ve eğlence",
-    "thumbnailUrl": "https://i.imgur.com/agn47sQ.png"
-  },
-  {
-    "name": "A Para",
-    "url": "https://ythls.onrender.com/channel/UCzrGg6iyRDuUSnO0cQ5oLcA.m3u8",
-    "description": "A Para canlı yayını - Ekonomi ve finans",
-    "thumbnailUrl": "https://i.imgur.com/GjHnq0c.png"
-  },
-  {
-    "name": "Akit TV",
-    "url": "https://akittv-live.ercdn.net/akittv/akittv.m3u8",
-    "description": "Akit TV canlı yayını - Haber kanalı",
-    "thumbnailUrl": "https://i.imgur.com/oGto929.png"
-  },
-  {
-    "name": "Beyaz TV",
-    "url": "https://tv.ensonhaber.com/tv/tr/beyaztv/index.m3u8",
-    "description": "Beyaz TV canlı yayını - Haber ve tartışma",
-    "thumbnailUrl": "https://i.imgur.com/uykIdML.png"
-  },
-  {
-    "name": "BENGÜTÜRK TV",
-    "url": "https://tv.ensonhaber.com/tv/tr/benguturk/index.m3u8",
-    "description": "BENGÜTÜRK TV canlı yayını - Haber kanalı",
-    "thumbnailUrl": "https://i.imgur.com/p3ON1oX.png"
-  },
-  {
-    "name": "Beykent TV",
-    "url": "https://yayin30.haber100.com/live/beykenttv/playlist.m3u8",
-    "description": "Beykent TV canlı yayını - Yerel kanal",
-    "thumbnailUrl": "https://i.imgur.com/Zv65ns5.png"
-  },
-  {
-    "name": "Bursa TV",
-    "url": "https://cdn-bursatv.yayin.com.tr/bursatv/bursatv/playlist.m3u8",
-    "description": "Bursa TV canlı yayını - Yerel kanal",
-    "thumbnailUrl": "https://i.imgur.com/9cl1MR8.png"
-  },
-  {
-    "name": "Can TV",
-    "url": "http://canbroadcast.com:7000/canlican/tv.m3u8",
-    "description": "Can TV canlı yayını - Yerel kanal",
-    "thumbnailUrl": "https://i.imgur.com/oIMtuwB.png"
-  },
-  {
-    "name": "Cekmeköy TV",
-    "url": "https://cdn-cekmekoybeltv.yayin.com.tr/cekmekoybeltv/cekmekoybeltv/playlist.m3u8",
-    "description": "Cekmeköy TV canlı yayını - Yerel kanal",
-    "thumbnailUrl": "https://i.imgur.com/sjAGFWu.png"
-  },
-  {
-    "name": "Diyanet TV",
-    "url": "https://eustr73.mediatriple.net/videoonlylive/mtikoimxnztxlive/broadcast_5e3bf95a47e07.smil/playlist.m3u8",
-    "description": "Diyanet TV canlı yayını - Dini içerikler",
-    "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/Diyanet_TV_logo.svg/512px-Diyanet_TV_logo.svg.png"
-  },
-  {
-    "name": "Dost TV",
-    "url": "https://dost.stream.emsal.im/tv/live.m3u8",
-    "description": "Dost TV canlı yayını - Yerel kanal",
-    "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/en/f/f6/Dost_TV.jpg"
-  },
-  {
-    "name": "DRT Denizli",
-    "url": "https://edge1.socialsmart.tv/drttv/bant1/playlist.m3u8",
-    "description": "DRT Denizli canlı yayını - Yerel kanal",
-    "thumbnailUrl": "https://i.imgur.com/ZLX2RB7.png"
-  },
-  {
-    "name": "Edessa TV",
-    "url": "https://tv.digitalbox.xyz:19360/edessatv/edessatv.m3u8",
-    "description": "Edessa TV canlı yayını - Yerel kanal",
-    "thumbnailUrl": "https://i.imgur.com/rhU6j9I.png"
-  },
-  {
-    "name": "ES TV",
-    "url": "https://live.artidijitalmedya.com/artidijital_estv/estv/playlist.m3u8",
-    "description": "ES TV canlı yayını - Yerel kanal",
-    "thumbnailUrl": "https://i.imgur.com/epAEBrp.png"
-  },
-  {
-    "name": "Gonca TV",
-    "url": "https://edge1.socialsmart.tv/goncatv/bant1/playlist.m3u8",
-    "description": "Gonca TV canlı yayını - Yerel kanal",
-    "thumbnailUrl": "https://i.imgur.com/TwqIJwo.png"
-  },
-  {
-    "name": "Guneydogu TV",
-    "url": "https://broadcasttr.com:446/gtv/bant1/playlist.m3u8",
-    "description": "Guneydogu TV canlı yayını - Yerel kanal",
-    "thumbnailUrl": "https://i.imgur.com/JT5pp3Y.png"
-  },
-  {
-    "name": "IBB TV",
-    "url": "http://wowza.istweb.tv:1935/webtv/webtv_wowza1/playlist.m3u8",
-    "description": "IBB TV canlı yayını - İstanbul Büyükşehir Belediyesi",
-    "thumbnailUrl": "https://i.imgur.com/aXxAz84.png"
-  },
-  {
-    "name": "Beşiktaş Web TV",
-    "url": "https://s01.vpis.io/besiktas/besiktas.m3u8",
-    "description": "Beşiktaş Web TV canlı yayını - Spor kanalı",
-    "thumbnailUrl": "https://i.ibb.co/bRhnM6W/qti5aea.png"
-  },
-  {
-    "name": "Em TV",
-    "url": "https://cdn.yayin.com.tr/TVEM/TVEM/playlist.m3u8",
-    "description": "Em TV canlı yayını - Yerel kanal",
-    "thumbnailUrl": "https://i.imgur.com/pHlRi8m.jpg"
-  },
-  {
-    "name": "ETV Manisa",
-    "url": "https://broadcasttr.com:446/manisaetv/bant1/playlist.m3u8",
-    "description": "ETV Manisa canlı yayını - Yerel kanal",
-    "thumbnailUrl": "https://i.ibb.co/QKXtdkz/sOd3INg.png"
-  },
-  {
-    "name": "Finans Turk TV",
-    "url": "http://live.arkumedia.com:1935/finansturktv/finansturktv/playlist.m3u8",
-    "description": "Finans Turk TV canlı yayını - Ekonomi kanalı",
-    "thumbnailUrl": "https://i.ibb.co/wBwmB1T/iY0osc7.png"
-  },
-  {
-    "name": "Dersim62 TV",
-    "url": "http://live.arkumedia.com:1935/dersim62tv/dersim62tv/playlist.m3u8",
-    "description": "Dersim62 TV canlı yayını - Yerel kanal",
-    "thumbnailUrl": "https://i.imgur.com/wFTl8aQ.png"
-  },
-  {
-    "name": "Erzurum Web TV",
-    "url": "https://win29.yayin.com.tr/erzurumwebtv/erzurumwebtv/iptvdelisi.m3u8",
-    "description": "Erzurum Web TV canlı yayını - Yerel kanal",
-    "thumbnailUrl": "https://i.imgur.com/HF7N4Li.png"
-  },
-  {
-    "name": "Ert Sah TV",
-    "url": "http://win20.yayin.com.tr/ertsahtv/ertsahtv/playlist.m3u8",
-    "description": "Ert Sah TV canlı yayını - Yerel kanal",
-    "thumbnailUrl": "https://i.imgur.com/0cdpsdz.png"
-  },
-  {
-    "name": "Falastini TV",
-    "url": "https://cdg8.edge.technocdn.com/palestiniantv_source/live/playlist.m3u8",
-    "description": "Falastini TV canlı yayını - Uluslararası kanal",
-    "thumbnailUrl": "https://i.imgur.com/YPfPk9f.png"
-  },
-  {
-    "name": "GSTV",
-    "url": "https://owifavo5.rocketcdn.com/gstv/gstv.smil/playlist.m3u8",
-    "description": "GSTV canlı yayını - Galatasaray TV",
-    "thumbnailUrl": "https://i.imgur.com/fC3KuwT.jpg"
-  },
-  {
-    "name": "Guney TV Tarsus",
-    "url": "http://stream2.taksimbilisim.com:1935/tarsusguneytv/bant1/playlist.m3u8",
-    "description": "Guney TV Tarsus canlı yayını - Yerel kanal",
-    "thumbnailUrl": "https://i.imgur.com/solQ9nj.png"
-  },
-  {
-    "name": "Hunat TV",
-    "url": "https://59cba4d34b678.streamlock.net/canlitv/hunattv/playlist.m3u8",
-    "description": "Hunat TV canlı yayını - Yerel kanal",
-    "thumbnailUrl": "https://i.imgur.com/NrxHGnb.png"
+    "name": "TRT Belgesel",
+    "streamUrl": "https://tv-trtbelgesel.medya.trt.com.tr/master.m3u8",
+    "logoUrl": "https://www.trtbelgesel.com.tr/assets/img/logo.png",
+    "category": "Belgesel"
   },
   {
     "name": "ATV",
-    "url": "https://trkvz-live.daioncdn.net/atv/atv.m3u8",
-    "description": "ATV canlı yayını - Türkiye'nin ana televizyon kanallarından",
-    "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/ATV_2020_logo.svg/512px-ATV_2020_logo.svg.png"
+    "streamUrl": "http://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/atv/atv_360p.m3u8",
+    "logoUrl": "https://www.atv.com.tr/assets/img/logo.png",
+    "category": "Ulusal"
   },
   {
     "name": "Kanal D",
-    "url": "https://demiroren-live.daioncdn.net/kanald/kanald.m3u8",
-    "description": "Kanal D canlı yayını - Demirören grubu ana kanalı",
-    "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/Kanal_D_2020_logo.svg/512px-Kanal_D_2020_logo.svg.png"
+    "streamUrl": "https://demiroren.daioncdn.net/kanald/kanald.m3u8?app=kanald_web&ce=3",
+    "logoUrl": "https://www.kanald.com.tr/assets/img/logo.png",
+    "category": "Ulusal"
   },
   {
     "name": "Show TV",
-    "url": "https://yayin2.canlitv.fun/livetv/showtv.stream/playlist.m3u8",
-    "description": "Show TV canlı yayını - Hayat Türkiye'nin kanalı",
-    "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/Show_TV_2020_logo.svg/512px-Show_TV_2020_logo.svg.png"
-  },
-  {
-    "name": "Fox TV",
-    "url": "https://mn-nl.mncdn.com/blutv_fox2/live.m3u8",
-    "description": "Fox TV canlı yayını - Popüler dizi ve program kanalı",
-    "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/Fox_TV_Turkiye_logo.svg/512px-Fox_TV_Turkiye_logo.svg.png"
-  },
-  {
-    "name": "TV8",
-    "url": "https://yayin2.canlitv.fun/livetv/tv8.stream/playlist.m3u8",
-    "description": "TV8 canlı yayını - Gençlere yönelik kanal",
-    "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/TV8_2020_logo.svg/512px-TV8_2020_logo.svg.png"
+    "streamUrl": "https://ciner-live.daioncdn.net/showtv/showtv.m3u8",
+    "logoUrl": "https://www.showtv.com.tr/assets/img/logo.png",
+    "category": "Ulusal"
   },
   {
     "name": "Star TV",
-    "url": "https://yayin2.canlitv.fun/livetv/startv.stream/playlist.m3u8",
-    "description": "Star TV canlı yayını - Eğlence ve dizi kanalı",
-    "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Star_TV_2020_logo.svg/512px-Star_TV_2020_logo.svg.png"
+    "streamUrl": "https://dogus-live.daioncdn.net/startv/startv.m3u8",
+    "logoUrl": "https://www.startv.com.tr/assets/img/logo.png",
+    "category": "Ulusal"
+  },
+  {
+    "name": "TV8",
+    "streamUrl": "https://tv8-live.daioncdn.net/tv8/tv8.m3u8",
+    "logoUrl": "https://www.tv8.com.tr/assets/img/logo.png",
+    "category": "Ulusal"
   },
   {
     "name": "Kanal 7",
-    "url": "https://yayin2.canlitv.fun/livetv/kanal7.stream/playlist.m3u8",
-    "description": "Kanal 7 canlı yayını - Haber ve eğlence",
-    "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/Kanal_7_2020_logo.svg/512px-Kanal_7_2020_logo.svg.png"
+    "streamUrl": "https://kanal7-live.daioncdn.net/kanal7/kanal7.m3u8",
+    "logoUrl": "https://www.kanal7.com.tr/assets/img/logo.png",
+    "category": "Ulusal"
   },
   {
-    "name": "Now TV",
-    "url": "https://yayin2.canlitv.fun/livetv/nowtv.stream/playlist.m3u8",
-    "description": "Now TV canlı yayını - Haber ve tartışma",
-    "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Now_TV_2020_logo.svg/512px-Now_TV_2020_logo.svg.png"
+    "name": "NOW TV",
+    "streamUrl": "https://uycyyuuzyh.turknet.ercdn.net/nphindgytw/nowtv/nowtv.m3u8",
+    "logoUrl": "https://www.nowtv.com.tr/assets/img/logo.png",
+    "category": "Ulusal"
   },
   {
-    "name": "Habertürk TV",
-    "url": "https://mn-nl.mncdn.com/blutv_haberturk2/live.m3u8",
-    "description": "Habertürk TV canlı yayını - Ekonomi ve siyaset haberleri",
-    "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/Haberturk_TV_logo.svg/512px-Haberturk_TV_logo.svg.png"
+    "name": "Beyaz TV",
+    "streamUrl": "https://beyaztv.daioncdn.net/beyaztv/beyaztv.m3u8?app=fcd5c66b-da9d-44ba-a410-4f34805c397d&ce=3",
+    "logoUrl": "https://www.beyaztv.com.tr/assets/img/logo.png",
+    "category": "Ulusal"
   },
   {
-    "name": "CNN Türk",
-    "url": "https://yayin2.canlitv.fun/livetv/cnnturk.stream/playlist.m3u8",
-    "description": "CNN Türk canlı yayını - 24 saat haber kanalı",
-    "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/CNN_Turk_logo.svg/512px-CNN_Turk_logo.svg.png"
-  },
-  {
-    "name": "NTV",
-    "url": "https://yayin2.canlitv.fun/livetv/ntv.stream/playlist.m3u8",
-    "description": "NTV canlı yayını - Teknoloji ve haber kanalı",
-    "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/NTV_logo.svg/512px-NTV_logo.svg.png"
-  },
-  {
-    "name": "A Haber",
-    "url": "https://yayin2.canlitv.fun/livetv/ahaber.stream/playlist.m3u8",
-    "description": "A Haber canlı yayını - Haber kanalı",
-    "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/A_Haber_logo.svg/512px-A_Haber_logo.svg.png"
-  },
-  {
-    "name": "Tele1",
-    "url": "https://yayin2.canlitv.fun/livetv/tele1.stream/playlist.m3u8",
-    "description": "Tele1 canlı yayını - Haber ve tartışma kanalı",
-    "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/Tele1_logo.svg/512px-Tele1_logo.svg.png"
-  },
-  {
-    "name": "Sözcü TV",
-    "url": "https://yayin2.canlitv.fun/livetv/sozcutv.stream/playlist.m3u8",
-    "description": "Sözcü TV canlı yayını - Haber kanalı",
-    "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/S%C3%B6zc%C3%BC_TV_logo.svg/512px-S%C3%B6zc%C3%BC_TV_logo.svg.png"
-  },
-  {
-    "name": "Flash Haber",
-    "url": "https://yayin2.canlitv.fun/livetv/flashhaber.stream/playlist.m3u8",
-    "description": "Flash Haber canlı yayını - Haber kanalı",
-    "thumbnailUrl": "https://i.imgur.com/L0NHKBM.png"
+    "name": "A2TV",
+    "streamUrl": "https://trkvz-live.daioncdn.net/a2tv/a2tv.m3u8",
+    "logoUrl": "https://www.a2tv.com.tr/assets/img/logo.png",
+    "category": "Ulusal"
   },
   {
     "name": "A Spor",
-    "url": "https://yayin2.canlitv.fun/livetv/aspor.stream/playlist.m3u8",
-    "description": "A Spor canlı yayını - Spor haberleri ve canlı maçlar",
-    "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/A_Spor_logo.svg/512px-A_Spor_logo.svg.png"
+    "streamUrl": "https://trkvz-live.daioncdn.net/aspor/aspor.m3u8",
+    "logoUrl": "https://www.aspor.com.tr/assets/img/logo.png",
+    "category": "Spor"
   },
   {
-    "name": "CBC Sport",
-    "url": "https://yayin2.canlitv.fun/livetv/cbcsport.stream/playlist.m3u8",
-    "description": "CBC Sport canlı yayını - Spor kanalı",
-    "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/CBC_Sport_logo.svg/512px-CBC_Sport_logo.svg.png"
+    "name": "Halk TV",
+    "streamUrl": "https://halktv-live.daioncdn.net/halktv/halktv.m3u8",
+    "logoUrl": "https://www.halktv.com.tr/assets/img/logo.png",
+    "category": "Haber"
   },
   {
-    "name": "İdman TV",
-    "url": "https://yayin2.canlitv.fun/livetv/idmantv.stream/playlist.m3u8",
-    "description": "İdman TV canlı yayını - Azerbaycan spor kanalı",
-    "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/Idman_TV_logo.svg/512px-Idman_TV_logo.svg.png"
+    "name": "Habertürk TV",
+    "streamUrl": "https://ciner-live.daioncdn.net/haberturktv/haberturktv.m3u8",
+    "logoUrl": "https://www.haberturk.com.tr/assets/img/logo.png",
+    "category": "Haber"
+  },
+  {
+    "name": "Tele 1",
+    "streamUrl": "https://tele1-live.ercdn.net/tele1/tele1.m3u8",
+    "logoUrl": "https://www.tele1.com.tr/assets/img/logo.png",
+    "category": "Haber"
+  },
+  {
+    "name": "360 TV",
+    "streamUrl": "https://turkmedya-live.ercdn.net/tv360/tv360.m3u8",
+    "logoUrl": "https://www.360tv.com.tr/assets/img/logo.png",
+    "category": "Haber"
+  },
+  {
+    "name": "TV 100",
+    "streamUrl": "https://tv100-live.daioncdn.net/tv100/tv100.m3u8",
+    "logoUrl": "https://www.tv100.com.tr/assets/img/logo.png",
+    "category": "Haber"
+  },
+  {
+    "name": "Kral Pop TV",
+    "streamUrl": "https://dogus-live.daioncdn.net/kralpoptv/playlist.m3u8",
+    "logoUrl": "https://www.kral.com.tr/assets/img/logo.png",
+    "category": "Müzik"
+  },
+  {
+    "name": "Kral TV",
+    "streamUrl": "https://dogus-live.daioncdn.net/kraltv/playlist.m3u8",
+    "logoUrl": "https://www.kral.com.tr/assets/img/logo.png",
+    "category": "Müzik"
+  },
+  {
+    "name": "Dream Türk",
+    "streamUrl": "https://live.duhnet.tv/S2/HLS_LIVE/dreamturknp/playlist.m3u8",
+    "logoUrl": "https://www.dream.com.tr/assets/img/logo.png",
+    "category": "Müzik"
   },
   {
     "name": "TJK TV",
-    "url": "https://yayin2.canlitv.fun/livetv/tjktv.stream/playlist.m3u8",
-    "description": "TJK TV canlı yayını - At yarışı kanalı",
-    "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/TJK_TV_logo.svg/512px-TJK_TV_logo.svg.png"
+    "streamUrl": "https://tjktv-live.tjk.org/tjktv.m3u8",
+    "logoUrl": "https://www.tjk.org/assets/img/logo.png",
+    "category": "Spor"
   },
   {
-    "name": "Sports TV",
-    "url": "https://yayin2.canlitv.fun/livetv/sportstv.stream/playlist.m3u8",
-    "description": "Sports TV canlı yayını - Spor kanalı",
-    "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Sports_TV_logo.svg/512px-Sports_TV_logo.svg.png"
+    "name": "TGRT Haber",
+    "streamUrl": "https://canli.tgrthaber.com/tgrt.m3u8",
+    "logoUrl": "https://www.tgrthaber.com/assets/img/logo.png",
+    "category": "Haber"
   },
   {
-    "name": "FB TV",
-    "url": "https://yayin2.canlitv.fun/livetv/fbtv.stream/playlist.m3u8",
-    "description": "FB TV canlı yayını - Fenerbahçe TV",
-    "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/FB_TV_logo.svg/512px-FB_TV_logo.svg.png"
+    "name": "Bloomberg HT",
+    "streamUrl": "https://tv.ensonhaber.com/bloomberght/bloomberght.m3u8",
+    "logoUrl": "https://www.bloomberght.com/assets/img/logo.png",
+    "category": "Ekonomi"
   },
   {
-    "name": "GS TV",
-    "url": "https://yayin2.canlitv.fun/livetv/gstv.stream/playlist.m3u8",
-    "description": "GS TV canlı yayını - Galatasaray TV",
-    "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/GS_TV_logo.svg/512px-GS_TV_logo.svg.png"
+    "name": "NTV",
+    "streamUrl": "https://dogus-live.daioncdn.net/ntv/ntv.m3u8",
+    "logoUrl": "https://www.ntv.com.tr/assets/img/logo.png",
+    "category": "Haber"
   },
   {
-    "name": "Şaban TV",
-    "url": "https://yayin2.canlitv.fun/livetv/sabantv.stream/playlist.m3u8",
-    "description": "Şaban TV canlı yayını - Yerel kanal",
-    "thumbnailUrl": "https://i.imgur.com/dWElJll.png"
-  },
-  {
-    "name": "Teve2",
-    "url": "https://yayin2.canlitv.fun/livetv/teve2.stream/playlist.m3u8",
-    "description": "Teve2 canlı yayını - Eğlence kanalı",
-    "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Teve2_logo.svg/512px-Teve2_logo.svg.png"
-  },
-  {
-    "name": "TV8.5",
-    "url": "https://yayin2.canlitv.fun/livetv/tv85.stream/playlist.m3u8",
-    "description": "TV8.5 canlı yayını - TV8'in ikinci kanalı",
-    "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/TV8_2020_logo.svg/512px-TV8_2020_logo.svg.png"
-  },
-  {
-    "name": "TV 360",
-    "url": "https://turkmedya-live.ercdn.net/tv360/tv360.m3u8",
-    "description": "TV 360 canlı yayını - Haber ve eğlence",
-    "thumbnailUrl": "https://i.imgur.com/agn47sQ.png"
-  },
-  {
-    "name": "TV8 İnt",
-    "url": "https://yayin2.canlitv.fun/livetv/tv8int.stream/playlist.m3u8",
-    "description": "TV8 İnt canlı yayını - Uluslararası versiyon",
-    "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/TV8_2020_logo.svg/512px-TV8_2020_logo.svg.png"
-  },
-  {
-    "name": "A2 TV",
-    "url": "https://yayin2.canlitv.fun/livetv/a2tv.stream/playlist.m3u8",
-    "description": "A2 TV canlı yayını - Eğlence kanalı",
-    "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/Show_TV_2020_logo.svg/512px-Show_TV_2020_logo.svg.png"
-  },
-  {
-    "name": "Euro Star",
-    "url": "https://mn-nl.mncdn.com/blutv_eurostar2/live.m3u8",
-    "description": "Euro Star canlı yayını - Müzik ve eğlence",
-    "thumbnailUrl": "https://i.imgur.com/kb165Ot.png"
-  },
-  {
-    "name": "D Max",
-    "url": "https://yayin2.canlitv.fun/livetv/dmax.stream/playlist.m3u8",
-    "description": "D Max canlı yayını - Belgesel kanalı",
-    "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/DMAX_2020_logo.svg/512px-DMAX_2020_logo.svg.png"
-  },
-  {
-    "name": "Euro D",
-    "url": "https://live.duhnet.tv/S2/HLS_LIVE/eurodnp/playlist.m3u8",
-    "description": "Euro D canlı yayını - Avrupa dizileri",
-    "thumbnailUrl": "https://i.imgur.com/x9kHsXo.png"
-  },
-  {
-    "name": "ATV Avrupa",
-    "url": "https://ythls.onrender.com/channel/UCUVZ7T_kwkxDOGFcDlFI-hg.m3u8",
-    "description": "ATV Avrupa canlı yayını - Avrupa versiyonu",
-    "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/ATV_2020_logo.svg/512px-ATV_2020_logo.svg.png"
-  },
-  {
-    "name": "TV42",
-    "url": "https://yayin2.canlitv.fun/livetv/tv42.stream/playlist.m3u8",
-    "description": "TV42 canlı yayını - Yerel kanal",
-    "thumbnailUrl": "https://i.imgur.com/ls9NLa4.png"
-  },
-  {
-    "name": "Vatan TV",
-    "url": "https://yayin2.canlitv.fun/livetv/vatantv.stream/playlist.m3u8",
-    "description": "Vatan TV canlı yayını - Yerel kanal",
-    "thumbnailUrl": "https://i.imgur.com/MCUjck8.png"
-  },
-  {
-    "name": "TGRT EU",
-    "url": "https://yayin2.canlitv.fun/livetv/tgrt-eu.stream/playlist.m3u8",
-    "description": "TGRT EU canlı yayını - Avrupa versiyonu",
-    "thumbnailUrl": "https://i.imgur.com/Dlsm9XP.png"
-  },
-  {
-    "name": "Cem TV",
-    "url": "https://yayin2.canlitv.fun/livetv/cem-tv.stream/playlist.m3u8",
-    "description": "Cem TV canlı yayını - Yerel kanal",
-    "thumbnailUrl": "https://i.imgur.com/Mm8hdfx.png"
-  },
-  {
-    "name": "Köy TV",
-    "url": "https://yayin2.canlitv.fun/livetv/koytv.stream/playlist.m3u8",
-    "description": "Köy TV canlı yayını - Yerel kanal",
-    "thumbnailUrl": "https://i.imgur.com/VZhag2x.png"
-  },
-  {
-    "name": "İctimai TV",
-    "url": "https://yayin2.canlitv.fun/livetv/ictimaitv.stream/playlist.m3u8",
-    "description": "İctimai TV canlı yayını - Azerbaycan kanalı",
-    "thumbnailUrl": "https://i.imgur.com/X4QFDhk.png"
-  },
-  {
-    "name": "Minika Çocuk",
-    "url": "https://yayin2.canlitv.fun/livetv/minikacocuk.stream/playlist.m3u8",
-    "description": "Minika Çocuk canlı yayını - Çocuk kanalı",
-    "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Minika_%C3%87ocuk_logo.svg/512px-Minika_%C3%87ocuk_logo.svg.png"
-  },
-  {
-    "name": "TLC Tv",
-    "url": "https://yayin2.canlitv.fun/livetv/tlctv.stream/playlist.m3u8",
-    "description": "TLC Tv canlı yayını - Yaşam tarzı kanalı",
-    "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/TLC_TV_logo.svg/512px-TLC_TV_logo.svg.png"
-  },
-  {
-    "name": "Minika Go",
-    "url": "https://yayin2.canlitv.fun/livetv/minikago.stream/playlist.m3u8",
-    "description": "Minika Go canlı yayını - Çocuk kanalı",
-    "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Minika_%C3%87ocuk_logo.svg/512px-Minika_%C3%87ocuk_logo.svg.png"
-  },
-  {
-    "name": "TRT Spor Yıldız",
-    "url": "https://yayin2.canlitv.fun/livetv/trtsporyildiz.stream/playlist.m3u8",
-    "description": "TRT Spor Yıldız canlı yayını - Spor kanalı",
-    "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/TRT_Spor_2021_logo.svg/512px-TRT_Spor_2021_logo.svg.png"
-  },
-  {
-    "name": "Cartoon Network",
-    "url": "https://yayin2.canlitv.fun/livetv/cartoonnetwork.stream/playlist.m3u8",
-    "description": "Cartoon Network canlı yayını - Çizgi film kanalı",
-    "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Cartoon_Network_2010_logo.svg/512px-Cartoon_Network_2010_logo.svg.png"
-  },
-  {
-    "name": "Bengütürk Tv",
-    "url": "https://tv.ensonhaber.com/tv/tr/benguturk/index.m3u8",
-    "description": "Bengütürk Tv canlı yayını - Haber kanalı",
-    "thumbnailUrl": "https://i.imgur.com/p3ON1oX.png"
-  },
-  {
-    "name": "Akıllı Tv",
-    "url": "https://yayin2.canlitv.fun/livetv/akilli-tv.stream/playlist.m3u8",
-    "description": "Akıllı Tv canlı yayını - Eğitim kanalı",
-    "thumbnailUrl": "https://i.imgur.com/wFTl8aQ.png"
-  },
-  {
-    "name": "Milli Piyango TV",
-    "url": "https://yayin2.canlitv.fun/livetv/milli-piyango-tv.stream/playlist.m3u8",
-    "description": "Milli Piyango TV canlı yayını - Çekiliş kanalı",
-    "thumbnailUrl": "https://i.imgur.com/HF7N4Li.png"
-  },
-  {
-    "name": "İbb Tv",
-    "url": "http://wowza.istweb.tv:1935/webtv/webtv_wowza1/playlist.m3u8",
-    "description": "İbb Tv canlı yayını - İstanbul Büyükşehir Belediyesi",
-    "thumbnailUrl": "https://i.imgur.com/aXxAz84.png"
-  },
-  {
-    "name": "TRT Eba Tv İlkokul",
-    "url": "https://yayin2.canlitv.fun/livetv/ebatv-ilkokul.stream/playlist.m3u8",
-    "description": "TRT Eba Tv İlkokul canlı yayını - Eğitim kanalı",
-    "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/TRT_Eba_TV_logo.svg/512px-TRT_Eba_TV_logo.svg.png"
-  },
-  {
-    "name": "TRT Eba Tv Ortaokul",
-    "url": "https://yayin2.canlitv.fun/livetv/ebatv-ortaokul.stream/playlist.m3u8",
-    "description": "TRT Eba Tv Ortaokul canlı yayını - Eğitim kanalı",
-    "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/TRT_Eba_TV_logo.svg/512px-TRT_Eba_TV_logo.svg.png"
-  },
-  {
-    "name": "TRT Eba Tv Lise",
-    "url": "https://yayin2.canlitv.fun/livetv/ebatv-lise.stream/playlist.m3u8",
-    "description": "TRT Eba Tv Lise canlı yayını - Eğitim kanalı",
-    "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/TRT_Eba_TV_logo.svg/512px-TRT_Eba_TV_logo.svg.png"
-  },
-  {
-    "name": "Meltem Tv",
-    "url": "https://yayin2.canlitv.fun/livetv/meltemtv.stream/playlist.m3u8",
-    "description": "Meltem Tv canlı yayını - Yerel kanal",
-    "thumbnailUrl": "https://i.imgur.com/ZLX2RB7.png"
-  },
-  {
-    "name": "Disney Channel",
-    "url": "https://yayin2.canlitv.fun/livetv/disneychannel.stream/playlist.m3u8",
-    "description": "Disney Channel canlı yayını - Çizgi film kanalı",
-    "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/Disney_Channel_2019_logo.svg/512px-Disney_Channel_2019_logo.svg.png"
-  },
-  {
-    "name": "TGRT Belgesel",
-    "url": "https://yayin2.canlitv.fun/livetv/tgrtbelgesel.stream/playlist.m3u8",
-    "description": "TGRT Belgesel canlı yayını - Belgesel kanalı",
-    "thumbnailUrl": "https://i.imgur.com/Dlsm9XP.png"
-  },
-  {
-    "name": "Kon Tv",
-    "url": "https://yayin2.canlitv.fun/livetv/kontv.stream/playlist.m3u8",
-    "description": "Kon Tv canlı yayını - Yerel kanal",
-    "thumbnailUrl": "https://i.imgur.com/epAEBrp.png"
-  },
-  {
-    "name": "Ülke Tv",
-    "url": "https://yayin2.canlitv.fun/livetv/ulke-tv.stream/playlist.m3u8",
-    "description": "Ülke Tv canlı yayını - Yerel kanal",
-    "thumbnailUrl": "https://i.imgur.com/TwqIJwo.png"
-  },
-  {
-    "name": "Olay Tv",
-    "url": "https://yayin2.canlitv.fun/livetv/olaytv.stream/playlist.m3u8",
-    "description": "Olay Tv canlı yayını - Yerel kanal",
-    "thumbnailUrl": "https://i.imgur.com/JT5pp3Y.png"
-  },
-  {
-    "name": "Ses Tv",
-    "url": "https://yayin2.canlitv.fun/livetv/sestv.stream/playlist.m3u8",
-    "description": "Ses Tv canlı yayını - Yerel kanal",
-    "thumbnailUrl": "https://i.imgur.com/aXxAz84.png"
-  },
-  {
-    "name": "Az Tv",
-    "url": "https://yayin2.canlitv.fun/livetv/az-tv.stream/playlist.m3u8",
-    "description": "Az Tv canlı yayını - Azerbaycan kanalı",
-    "thumbnailUrl": "https://i.imgur.com/pHlRi8m.jpg"
-  },
-  {
-    "name": "Kral Tv",
-    "url": "https://yayin2.canlitv.fun/livetv/kral-tv.stream/playlist.m3u8",
-    "description": "Kral Tv canlı yayını - Müzik kanalı",
-    "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Kral_TV_logo.svg/512px-Kral_TV_logo.svg.png"
-  },
-  {
-    "name": "Kral Pop Tv",
-    "url": "https://yayin2.canlitv.fun/livetv/kral-pop-hd.stream/playlist.m3u8",
-    "description": "Kral Pop Tv canlı yayını - Pop müzik kanalı",
-    "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Kral_TV_logo.svg/512px-Kral_TV_logo.svg.png"
-  },
-  {
-    "name": "Power Türk Tv",
-    "url": "https://yayin2.canlitv.fun/livetv/powerturk-tv.stream/playlist.m3u8",
-    "description": "Power Türk Tv canlı yayını - Müzik kanalı",
-    "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Power_Turk_TV_logo.svg/512px-Power_Turk_TV_logo.svg.png"
-  },
-  {
-    "name": "Number One Tv",
-    "url": "https://yayin2.canlitv.fun/livetv/number-one-tv.stream/playlist.m3u8",
-    "description": "Number One Tv canlı yayını - Müzik kanalı",
-    "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Number_One_TV_logo.svg/512px-Number_One_TV_logo.svg.png"
-  },
-  {
-    "name": "Power Tv",
-    "url": "https://yayin2.canlitv.fun/livetv/powertv.stream/playlist.m3u8",
-    "description": "Power Tv canlı yayını - Müzik kanalı",
-    "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Power_Turk_TV_logo.svg/512px-Power_Turk_TV_logo.svg.png"
-  },
-  {
-    "name": "Xezer Tv",
-    "url": "https://yayin2.canlitv.fun/livetv/xezertv.stream/playlist.m3u8",
-    "description": "Xezer Tv canlı yayını - Azerbaycan kanalı",
-    "thumbnailUrl": "https://i.ibb.co/QKXtdkz/sOd3INg.png"
-  },
-  {
-    "name": "Tek Rumeli Tv",
-    "url": "https://yayin2.canlitv.fun/livetv/tek-rumeli-tv.stream/playlist.m3u8",
-    "description": "Tek Rumeli Tv canlı yayını - Müzik kanalı",
-    "thumbnailUrl": "https://i.ibb.co/wBwmB1T/iY0osc7.png"
-  },
-  {
-    "name": "Number One Türk Tv",
-    "url": "https://yayin2.canlitv.fun/livetv/number-one-turk-tv.stream/playlist.m3u8",
-    "description": "Number One Türk Tv canlı yayını - Türk müziği",
-    "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Number_One_TV_logo.svg/512px-Number_One_TV_logo.svg.png"
-  },
-  {
-    "name": "Yaban Tv",
-    "url": "https://yayin2.canlitv.fun/livetv/yabantv.stream/playlist.m3u8",
-    "description": "Yaban Tv canlı yayını - Yerel kanal",
-    "thumbnailUrl": "https://i.imgur.com/wFTl8aQ.png"
-  },
-  {
-    "name": "Slow Karadeniz Tv",
-    "url": "https://yayin2.canlitv.fun/livetv/slow-karadeniz-tv.stream/playlist.m3u8",
-    "description": "Slow Karadeniz Tv canlı yayını - Yerel kanal",
-    "thumbnailUrl": "https://i.imgur.com/HF7N4Li.png"
-  },
-  {
-    "name": "Semerkand Tv",
-    "url": "https://yayin2.canlitv.fun/livetv/semerkandtv.stream/playlist.m3u8",
-    "description": "Semerkand Tv canlı yayını - Dini kanal",
-    "thumbnailUrl": "https://i.imgur.com/0cdpsdz.png"
-  },
-  {
-    "name": "Planet Türk",
-    "url": "https://yayin2.canlitv.fun/livetv/planetturk.stream/playlist.m3u8",
-    "description": "Planet Türk canlı yayını - Müzik kanalı",
-    "thumbnailUrl": "https://i.imgur.com/YPfPk9f.png"
-  },
-  {
-    "name": "Show Türk",
-    "url": "https://yayin2.canlitv.fun/livetv/show-turk-canli-hd.stream/playlist.m3u8",
-    "description": "Show Türk canlı yayını - Uluslararası versiyon",
-    "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/Show_TV_2020_logo.svg/512px-Show_TV_2020_logo.svg.png"
-  },
-  {
-    "name": "Edirne Tv",
-    "url": "https://yayin2.canlitv.fun/livetv/edirnetv.stream/playlist.m3u8",
-    "description": "Edirne Tv canlı yayını - Yerel kanal",
-    "thumbnailUrl": "https://i.imgur.com/fC3KuwT.jpg"
-  },
-  {
-    "name": "Fil Tv",
-    "url": "https://yayin2.canlitv.fun/livetv/filtv.stream/playlist.m3u8",
-    "description": "Fil Tv canlı yayını - Yerel kanal",
-    "thumbnailUrl": "https://i.imgur.com/solQ9nj.png"
-  },
-  {
-    "name": "TVNET",
-    "url": "https://yayin2.canlitv.fun/livetv/tvnet.stream/playlist.m3u8",
-    "description": "TVNET canlı yayını - Yerel kanal",
-    "thumbnailUrl": "https://i.imgur.com/NrxHGnb.png"
-  },
-  {
-    "name": "Beşiktaş Tv",
-    "url": "https://s01.vpis.io/besiktas/besiktas.m3u8",
-    "description": "Beşiktaş Tv canlı yayını - Spor kanalı",
-    "thumbnailUrl": "https://i.ibb.co/bRhnM6W/qti5aea.png"
-  },
-  {
-    "name": "Planet Çocuk",
-    "url": "https://yayin2.canlitv.fun/livetv/planetcocuk.stream/playlist.m3u8",
-    "description": "Planet Çocuk canlı yayını - Çocuk kanalı",
-    "thumbnailUrl": "https://i.imgur.com/YPfPk9f.png"
-  },
-  {
-    "name": "TRT Arapça",
-    "url": "https://yayin2.canlitv.fun/livetv/trtarapcacanli-hd.stream/playlist.m3u8",
-    "description": "TRT Arapça canlı yayını - Arapça haber kanalı",
-    "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/TRT_World_2021_logo.svg/512px-TRT_World_2021_logo.svg.png"
-  },
-  {
-    "name": "Bursaspor Tv",
-    "url": "https://yayin2.canlitv.fun/livetv/bursasportv.stream/playlist.m3u8",
-    "description": "Bursaspor Tv canlı yayını - Spor kanalı",
-    "thumbnailUrl": "https://i.imgur.com/wFTl8aQ.png"
-  },
-  {
-    "name": "TRT Kürdi",
-    "url": "https://yayin2.canlitv.fun/livetv/trtkurdicanli-hd.stream/playlist.m3u8",
-    "description": "TRT Kürdi canlı yayını - Kürtçe haber kanalı",
-    "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/TRT_World_2021_logo.svg/512px-TRT_World_2021_logo.svg.png"
-  },
-  {
-    "name": "Tivibu Spor",
-    "url": "https://yayin2.canlitv.fun/livetv/tivibusporcanli-hd.stream/playlist.m3u8",
-    "description": "Tivibu Spor canlı yayını - Spor kanalı",
-    "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/TRT_Spor_2021_logo.svg/512px-TRT_Spor_2021_logo.svg.png"
-  },
-  {
-    "name": "Tay TV",
-    "url": "https://yayin2.canlitv.fun/livetv/tjktvcanli-yayin.stream/playlist.m3u8",
-    "description": "Tay TV canlı yayını - At yarışı kanalı",
-    "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/TJK_TV_logo.svg/512px-TJK_TV_logo.svg.png"
-  },
-  {
-    "name": "Rüdaw Tv",
-    "url": "https://yayin2.canlitv.fun/livetv/rudawtv.stream/playlist.m3u8",
-    "description": "Rüdaw Tv canlı yayını - Kürtçe kanal",
-    "thumbnailUrl": "https://i.imgur.com/HF7N4Li.png"
-  },
-  {
-    "name": "ATV Azad Tv",
-    "url": "https://yayin2.canlitv.fun/livetv/atv-azad-tv.stream/playlist.m3u8",
-    "description": "ATV Azad Tv canlı yayını - Kürdistan TV",
-    "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/ATV_2020_logo.svg/512px-ATV_2020_logo.svg.png"
-  },
-  {
-    "name": "Kanal B",
-    "url": "https://yayin2.canlitv.fun/livetv/kanal-b-canli-hd.stream/playlist.m3u8",
-    "description": "Kanal B canlı yayını - Haber kanalı",
-    "thumbnailUrl": "https://i.imgur.com/0cdpsdz.png"
-  },
-  {
-    "name": "Dost Tv",
-    "url": "https://dost.stream.emsal.im/tv/live.m3u8",
-    "description": "Dost Tv canlı yayını - Yerel kanal",
-    "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/en/f/f6/Dost_TV.jpg"
-  },
-  {
-    "name": "Tv4",
-    "url": "https://yayin2.canlitv.fun/livetv/tv4.stream/playlist.m3u8",
-    "description": "Tv4 canlı yayını - Yerel kanal",
-    "thumbnailUrl": "https://i.imgur.com/YPfPk9f.png"
-  },
-  {
-    "name": "TRT Avaz",
-    "url": "https://yayin2.canlitv.fun/livetv/trtavaz-canli-hd.stream/playlist.m3u8",
-    "description": "TRT Avaz canlı yayını - Türk dünyası kanalı",
-    "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/TRT_World_2021_logo.svg/512px-TRT_World_2021_logo.svg.png"
-  },
-  {
-    "name": "Uçankuş Tv",
-    "url": "https://yayin2.canlitv.fun/livetv/ucankus-tv.stream/playlist.m3u8",
-    "description": "Uçankuş Tv canlı yayını - Yerel kanal",
-    "thumbnailUrl": "https://i.imgur.com/fC3KuwT.jpg"
-  },
-  {
-    "name": "Kocaeli Tv",
-    "url": "https://yayin2.canlitv.fun/livetv/kocaelitv.stream/playlist.m3u8",
-    "description": "Kocaeli Tv canlı yayını - Yerel kanal",
-    "thumbnailUrl": "https://i.imgur.com/solQ9nj.png"
-  },
-  {
-    "name": "Show Max",
-    "url": "https://yayin2.canlitv.fun/livetv/show-max-canli-hd.stream/playlist.m3u8",
-    "description": "Show Max canlı yayını - Film kanalı",
-    "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/Show_TV_2020_logo.svg/512px-Show_TV_2020_logo.svg.png"
-  },
-  {
-    "name": "Space Tv",
-    "url": "https://yayin2.canlitv.fun/livetv/spacetv.stream/playlist.m3u8",
-    "description": "Space Tv canlı yayını - Yerel kanal",
-    "thumbnailUrl": "https://i.imgur.com/NrxHGnb.png"
-  },
-  {
-    "name": "Medine Tv",
-    "url": "https://yayin2.canlitv.fun/livetv/medinetv.stream/playlist.m3u8",
-    "description": "Medine Tv canlı yayını - Dini kanal",
-    "thumbnailUrl": "https://i.imgur.com/pHlRi8m.jpg"
-  },
-  {
-    "name": "Ekin Tv",
-    "url": "https://yayin2.canlitv.fun/livetv/ekintv.stream/playlist.m3u8",
-    "description": "Ekin Tv canlı yayını - Yerel kanal",
-    "thumbnailUrl": "https://i.ibb.co/QKXtdkz/sOd3INg.png"
-  },
-  {
-    "name": "TvEM",
-    "url": "https://cdn.yayin.com.tr/TVEM/TVEM/playlist.m3u8",
-    "description": "TvEM canlı yayını - Yerel kanal",
-    "thumbnailUrl": "https://i.imgur.com/pHlRi8m.jpg"
-  },
-  {
-    "name": "Damla Tv",
-    "url": "https://yayin2.canlitv.fun/livetv/damla-tv-hd-live.stream/playlist.m3u8",
-    "description": "Damla Tv canlı yayını - Yerel kanal",
-    "thumbnailUrl": "https://i.ibb.co/wBwmB1T/iY0osc7.png"
-  },
-  {
-    "name": "HT Spor",
-    "url": "https://yayin2.canlitv.fun/livetv/ht-spor-canli-hd.stream/playlist.m3u8",
-    "description": "HT Spor canlı yayını - Spor kanalı",
-    "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/A_Spor_logo.svg/512px-A_Spor_logo.svg.png"
-  },
-  {
-    "name": "Av Tv",
-    "url": "https://yayin2.canlitv.fun/livetv/avtv.stream/playlist.m3u8",
-    "description": "Av Tv canlı yayını - Yerel kanal",
-    "thumbnailUrl": "https://i.imgur.com/wFTl8aQ.png"
-  },
-  {
-    "name": "Hilal Tv",
-    "url": "https://yayin2.canlitv.fun/livetv/hilaltv.stream/playlist.m3u8",
-    "description": "Hilal Tv canlı yayını - Dini kanal",
-    "thumbnailUrl": "https://i.imgur.com/HF7N4Li.png"
-  },
-  {
-    "name": "FRM Tv HD",
-    "url": "https://yayin2.canlitv.fun/livetv/frmtv.stream/playlist.m3u8",
-    "description": "FRM Tv HD canlı yayını - Yerel kanal",
-    "thumbnailUrl": "https://i.imgur.com/0cdpsdz.png"
-  },
-  {
-    "name": "Muz Tv",
-    "url": "https://yayin2.canlitv.fun/livetv/muztv.stream/playlist.m3u8",
-    "description": "Muz Tv canlı yayını - Müzik kanalı",
-    "thumbnailUrl": "https://i.imgur.com/YPfPk9f.png"
-  },
-  {
-    "name": "Kanal V",
-    "url": "https://yayin2.canlitv.fun/livetv/kanal-v.stream/playlist.m3u8",
-    "description": "Kanal V canlı yayını - Yerel kanal",
-    "thumbnailUrl": "https://i.imgur.com/YPfPk9f.png"
-  },
-  {
-    "name": "Sony Mutfak",
-    "url": "https://yayin2.canlitv.fun/livetv/sony-mutfak.stream/playlist.m3u8",
-    "description": "Sony Mutfak canlı yayını - Yemek kanalı",
-    "thumbnailUrl": "https://i.imgur.com/YPfPk9f.png"
-  },
-  {
-    "name": "Kidz Animez",
-    "url": "https://yayin2.canlitv.fun/livetv/kidzanimez.stream/playlist.m3u8",
-    "description": "Kidz Animez canlı yayını - Çizgi film kanalı",
-    "thumbnailUrl": "https://i.imgur.com/YPfPk9f.png"
-  },
-  {
-    "name": "Türkmen Sport",
-    "url": "https://yayin2.canlitv.fun/livetv/turkmensport.stream/playlist.m3u8",
-    "description": "Türkmen Sport canlı yayını - Spor kanalı",
-    "thumbnailUrl": "https://i.imgur.com/YPfPk9f.png"
-  },
-  {
-    "name": "Medeniyet Tv",
-    "url": "https://yayin2.canlitv.fun/livetv/medeniyettv.stream/playlist.m3u8",
-    "description": "Medeniyet Tv canlı yayını - Kültür kanalı",
-    "thumbnailUrl": "https://i.imgur.com/YPfPk9f.png"
-  },
-  {
-    "name": "Kaçkar Tv",
-    "url": "https://yayin2.canlitv.fun/livetv/kackartv.stream/playlist.m3u8",
-    "description": "Kaçkar Tv canlı yayını - Yerel kanal",
-    "thumbnailUrl": "https://i.imgur.com/YPfPk9f.png"
-  },
-  {
-    "name": "Düğün Tv",
-    "url": "https://yayin2.canlitv.fun/livetv/duguntv.stream/playlist.m3u8",
-    "description": "Düğün Tv canlı yayını - Müzik kanalı",
-    "thumbnailUrl": "https://i.imgur.com/YPfPk9f.png"
-  },
-  {
-    "name": "Sony Channel Türkiye",
-    "url": "https://yayin2.canlitv.fun/livetv/sony-channel.stream/playlist.m3u8",
-    "description": "Sony Channel Türkiye canlı yayını - Film kanalı",
-    "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/Show_TV_2020_logo.svg/512px-Show_TV_2020_logo.svg.png"
-  },
-  {
-    "name": "Lider Tv",
-    "url": "https://yayin2.canlitv.fun/livetv/lidertv.stream/playlist.m3u8",
-    "description": "Lider Tv canlı yayını - Yerel kanal",
-    "thumbnailUrl": "https://i.imgur.com/YPfPk9f.png"
-  },
-  {
-    "name": "Milyon Tv",
-    "url": "https://sosyoapp-live.cdnnew.com/sosyo/buraya-bir-isim-verin.m3u8",
-    "description": "Milyon Tv canlı yayını - Müzik kanalı",
-    "thumbnailUrl": "https://i.imgur.com/lEIFDwo.png"
-  },
-  {
-    "name": "TRT 2",
-    "url": "https://yayin2.canlitv.fun/livetv/trt2canlihd-izle.stream/playlist.m3u8",
-    "description": "TRT 2 canlı yayını - Kültür ve sanat kanalı",
-    "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/TRT_2_2021_logo.svg/512px-TRT_2_2021_logo.svg.png"
-  },
-  {
-    "name": "Gaziantep Olay Tv",
-    "url": "https://yayin2.canlitv.fun/livetv/gaziantep-olay-tv.stream/playlist.m3u8",
-    "description": "Gaziantep Olay Tv canlı yayını - Yerel kanal",
-    "thumbnailUrl": "https://i.imgur.com/JT5pp3Y.png"
-  },
-  {
-    "name": "1 TV Georgia",
-    "url": "https://yayin2.canlitv.fun/livetv/1tv-georgia.stream/playlist.m3u8",
-    "description": "1 TV Georgia canlı yayını - Gürcü kanalı",
-    "thumbnailUrl": "https://i.imgur.com/YPfPk9f.png"
-  },
-  {
-    "name": "Kanal 26",
-    "url": "https://yayin2.canlitv.fun/livetv/kanal26-canli.stream/playlist.m3u8",
-    "description": "Kanal 26 canlı yayını - Yerel kanal",
-    "thumbnailUrl": "https://i.imgur.com/YPfPk9f.png"
-  },
-  {
-    "name": "Kanal 3",
-    "url": "https://yayin2.canlitv.fun/livetv/kanal3.stream/playlist.m3u8",
-    "description": "Kanal 3 canlı yayını - Yerel kanal",
-    "thumbnailUrl": "https://i.imgur.com/YPfPk9f.png"
-  },
-  {
-    "name": "Kanal 68",
-    "url": "https://yayin2.canlitv.fun/livetv/kanal68.stream/playlist.m3u8",
-    "description": "Kanal 68 canlı yayını - Yerel kanal",
-    "thumbnailUrl": "https://i.imgur.com/YPfPk9f.png"
-  },
-  {
-    "name": "Lalegül TV",
-    "url": "https://yayin2.canlitv.fun/livetv/lalegultv.stream/playlist.m3u8",
-    "description": "Lalegül TV canlı yayını - Yerel kanal",
-    "thumbnailUrl": "https://i.imgur.com/YPfPk9f.png"
-  },
-  {
-    "name": "Yat Tv",
-    "url": "https://yayin2.canlitv.fun/livetv/yattv.stream/playlist.m3u8",
-    "description": "Yat Tv canlı yayını - Yerel kanal",
-    "thumbnailUrl": "https://i.imgur.com/YPfPk9f.png"
-  },
-  {
-    "name": "Bereket Tv",
-    "url": "https://yayin2.canlitv.fun/livetv/berekettv.stream/playlist.m3u8",
-    "description": "Bereket Tv canlı yayını - Yerel kanal",
-    "thumbnailUrl": "https://i.imgur.com/YPfPk9f.png"
-  },
-  {
-    "name": "Bereket Hayvancılık Tv",
-    "url": "https://yayin2.canlitv.fun/livetv/bereket-hayvancilik-tv.stream/playlist.m3u8",
-    "description": "Bereket Hayvancılık Tv canlı yayını - Tarım kanalı",
-    "thumbnailUrl": "https://i.imgur.com/YPfPk9f.png"
-  },
-  {
-    "name": "Roman Tv",
-    "url": "https://yayin2.canlitv.fun/livetv/romantv.stream/playlist.m3u8",
-    "description": "Roman Tv canlı yayını - Yerel kanal",
-    "thumbnailUrl": "https://i.imgur.com/YPfPk9f.png"
-  },
-  {
-    "name": "TV1",
-    "url": "https://yayin2.canlitv.fun/livetv/tv1-hd.stream/playlist.m3u8",
-    "description": "TV1 canlı yayını - Yerel kanal",
-    "thumbnailUrl": "https://i.imgur.com/YPfPk9f.png"
-  },
-  {
-    "name": "Tv52",
-    "url": "https://yayin2.canlitv.fun/livetv/tv-52.stream/playlist.m3u8",
-    "description": "Tv52 canlı yayını - Yerel kanal",
-    "thumbnailUrl": "https://i.imgur.com/YPfPk9f.png"
+    "name": "24 TV",
+    "streamUrl": "https://mn-nl.mncdn.com/kanal24/smil:kanal24.smil/playlist.m3u8",
+    "logoUrl": "https://www.24tv.com.tr/assets/img/logo.png",
+    "category": "Haber"
   }
 ]
