@@ -1,16 +1,69 @@
-{
-  "channels": [
-    {
-      "name": "TRT 1",
-      "streamUrl": "https://tv-trt1.medya.trt.com.tr/master.m3u8",
-      "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/TRT_1_logo_%282021-%29.svg/200px-TRT_1_logo_%282021-%29.svg.png",
-      "category": "Ulusal"
-    },
-    {
-      "name": "TRT 2",
-      "streamUrl": "https://tv-trt2.medya.trt.com.tr/master.m3u8",
-      "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/TRT_2_logo_%282019-%29.svg/200px-TRT_2_logo_%282019-%29.svg.png",
-      "category": "Ulusal"
-    }
-  ]
-}
+[
+  {
+    "name": "TRT 1",
+    "streamUrl": "https://tv-trt1.medya.trt.com.tr/master.m3u8",
+    "logoUrl": "",
+    "category": "Ulusal"
+  },
+  {
+    "name": "TRT 2",
+    "streamUrl": "https://tv-trt2.medya.trt.com.tr/master.m3u8",
+    "logoUrl": "",
+    "category": "Ulusal"
+  },
+  {
+    "name": "TRT Haber",
+    "streamUrl": "https://tv-trthaber.medya.trt.com.tr/master.m3u8",
+    "logoUrl": "",
+    "category": "Haber"
+  },
+  {
+    "name": "TRT Spor",
+    "streamUrl": "https://tv-trtspor1.medya.trt.com.tr/master.m3u8",
+    "logoUrl": "",
+    "category": "Spor"
+  },
+  {
+    "name": "TRT Belgesel",
+    "streamUrl": "https://tv-trtbelgesel.medya.trt.com.tr/master.m3u8",
+    "logoUrl": "",
+    "category": "Belgesel"
+  },
+  {
+    "name": "TRT Çocuk",
+    "streamUrl": "https://tv-trtcocuk.medya.trt.com.tr/master.m3u8",
+    "logoUrl": "",
+    "category": "Çocuk"
+  },
+  {
+    "name": "TRT Müzik",
+    "streamUrl": "https://tv-trtmuzik.medya.trt.com.tr/master.m3u8",
+    "logoUrl": "",
+    "category": "Müzik"
+  },
+  {
+    "name": "TRT World",
+    "streamUrl": "https://tv-trtworld.medya.trt.com.tr/master.m3u8",
+    "logoUrl": "",
+    "category": "Uluslararası"
+  },
+
+  {
+    "name": "TRT Avaz",
+    "streamUrl": "https://tv-trtavaz.medya.trt.com.tr/master.m3u8",
+    "logoUrl": "",
+    "category": "Uluslararası"
+  },
+  {
+    "name": "TRT Arabic",
+    "streamUrl": "https://tv-trtarabic.medya.trt.com.tr/master.m3u8",
+    "logoUrl": "",
+    "category": "Uluslararası"
+  },
+  {
+    "name": "Sports TV",
+    "streamUrl": "https://www.youtube.com/@Sportstv",
+    "logoUrl": "",
+    "category": "Spor"
+  }
+]
