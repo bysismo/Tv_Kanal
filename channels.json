@@ -1,176 +1,176 @@
 [
   {
-    "name": "NOW TV",
-    "streamUrl": "https://nowtv.daioncdn.net/nowtv/nowtv.m3u8",
-    "logoUrl": "https://www.trt1.com.tr/assets/img/logo.png",
-    "category": "Ulusal"
+    "name": "TRT 1",
+    "url": "https://tv-trt1.medya.trt.com.tr/master.m3u8",
+    "description": "TRT Ana Kanal",
+    "thumbnailUrl": "https://www.trt1.com.tr/assets/img/logo.png"
   },
   {
     "name": "TRT Haber",
-    "streamUrl": "https://tv-trthaber.medya.trt.com.tr/master.m3u8",
-    "logoUrl": "https://www.trthaber.com/assets/img/logo.png",
-    "category": "Haber"
+    "url": "https://tv-trthaber.medya.trt.com.tr/master.m3u8",
+    "description": "TRT Haber",
+    "thumbnailUrl": "https://www.trthaber.com/assets/img/logo.png"
   },
   {
     "name": "TRT Spor",
-    "streamUrl": "https://tv-trtspor1.medya.trt.com.tr/master.m3u8",
-    "logoUrl": "https://www.trtspor.com.tr/assets/img/logo.png",
-    "category": "Spor"
+    "url": "https://tv-trtspor1.medya.trt.com.tr/master.m3u8",
+    "description": "TRT Spor",
+    "thumbnailUrl": "https://www.trtspor.com.tr/assets/img/logo.png"
   },
   {
     "name": "TRT Çocuk",
-    "streamUrl": "https://tv-trtcocuk.medya.trt.com.tr/master.m3u8",
-    "logoUrl": "https://www.trtcocuk.com.tr/assets/img/logo.png",
-    "category": "Çocuk"
+    "url": "https://tv-trtcocuk.medya.trt.com.tr/master.m3u8",
+    "description": "TRT Çocuk",
+    "thumbnailUrl": "https://www.trtcocuk.com.tr/assets/img/logo.png"
   },
   {
     "name": "TRT Müzik",
-    "streamUrl": "https://tv-trtmuzik.medya.trt.com.tr/master.m3u8",
-    "logoUrl": "https://www.trtmuzik.com.tr/assets/img/logo.png",
-    "category": "Müzik"
+    "url": "https://tv-trtmuzik.medya.trt.com.tr/master.m3u8",
+    "description": "TRT Müzik",
+    "thumbnailUrl": "https://www.trtmuzik.com.tr/assets/img/logo.png"
   },
   {
     "name": "TRT Belgesel",
-    "streamUrl": "https://tv-trtbelgesel.medya.trt.com.tr/master.m3u8",
-    "logoUrl": "https://www.trtbelgesel.com.tr/assets/img/logo.png",
-    "category": "Belgesel"
+    "url": "https://tv-trtbelgesel.medya.trt.com.tr/master.m3u8",
+    "description": "TRT Belgesel",
+    "thumbnailUrl": "https://www.trtbelgesel.com.tr/assets/img/logo.png"
   },
   {
     "name": "ATV",
-    "streamUrl": "http://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/atv/atv_360p.m3u8",
-    "logoUrl": "https://www.atv.com.tr/assets/img/logo.png",
-    "category": "Ulusal"
+    "url": "http://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/atv/atv_360p.m3u8",
+    "description": "ATV Ana Kanal",
+    "thumbnailUrl": "https://www.atv.com.tr/assets/img/logo.png"
   },
   {
     "name": "Kanal D",
-    "streamUrl": "https://demiroren.daioncdn.net/kanald/kanald.m3u8?app=kanald_web&ce=3",
-    "logoUrl": "https://www.kanald.com.tr/assets/img/logo.png",
-    "category": "Ulusal"
+    "url": "https://demiroren.daioncdn.net/kanald/kanald.m3u8?app=kanald_web&ce=3",
+    "description": "Kanal D",
+    "thumbnailUrl": "https://www.kanald.com.tr/assets/img/logo.png"
   },
   {
     "name": "Show TV",
-    "streamUrl": "https://ciner-live.daioncdn.net/showtv/showtv.m3u8",
-    "logoUrl": "https://www.showtv.com.tr/assets/img/logo.png",
-    "category": "Ulusal"
+    "url": "https://ciner-live.daioncdn.net/showtv/showtv.m3u8",
+    "description": "Show TV",
+    "thumbnailUrl": "https://www.showtv.com.tr/assets/img/logo.png"
   },
   {
     "name": "Star TV",
-    "streamUrl": "https://dogus-live.daioncdn.net/startv/startv.m3u8",
-    "logoUrl": "https://www.startv.com.tr/assets/img/logo.png",
-    "category": "Ulusal"
+    "url": "https://dogus-live.daioncdn.net/startv/startv.m3u8",
+    "description": "Star TV",
+    "thumbnailUrl": "https://www.startv.com.tr/assets/img/logo.png"
   },
   {
     "name": "TV8",
-    "streamUrl": "https://tv8-live.daioncdn.net/tv8/tv8.m3u8",
-    "logoUrl": "https://www.tv8.com.tr/assets/img/logo.png",
-    "category": "Ulusal"
+    "url": "https://tv8-live.daioncdn.net/tv8/tv8.m3u8",
+    "description": "TV8",
+    "thumbnailUrl": "https://www.tv8.com.tr/assets/img/logo.png"
   },
   {
     "name": "Kanal 7",
-    "streamUrl": "https://kanal7-live.daioncdn.net/kanal7/kanal7.m3u8",
-    "logoUrl": "https://www.kanal7.com.tr/assets/img/logo.png",
-    "category": "Ulusal"
+    "url": "https://kanal7-live.daioncdn.net/kanal7/kanal7.m3u8",
+    "description": "Kanal 7",
+    "thumbnailUrl": "https://www.kanal7.com.tr/assets/img/logo.png"
   },
   {
     "name": "NOW TV",
-    "streamUrl": "https://uycyyuuzyh.turknet.ercdn.net/nphindgytw/nowtv/nowtv.m3u8",
-    "logoUrl": "https://www.nowtv.com.tr/assets/img/logo.png",
-    "category": "Ulusal"
+    "url": "https://uycyyuuzyh.turknet.ercdn.net/nphindgytw/nowtv/nowtv.m3u8",
+    "description": "NOW TV",
+    "thumbnailUrl": "https://www.nowtv.com.tr/assets/img/logo.png"
   },
   {
     "name": "Beyaz TV",
-    "streamUrl": "https://beyaztv.daioncdn.net/beyaztv/beyaztv.m3u8?app=fcd5c66b-da9d-44ba-a410-4f34805c397d&ce=3",
-    "logoUrl": "https://www.beyaztv.com.tr/assets/img/logo.png",
-    "category": "Ulusal"
+    "url": "https://beyaztv.daioncdn.net/beyaztv/beyaztv.m3u8?app=fcd5c66b-da9d-44ba-a410-4f34805c397d&ce=3",
+    "description": "Beyaz TV",
+    "thumbnailUrl": "https://www.beyaztv.com.tr/assets/img/logo.png"
   },
   {
     "name": "A2TV",
-    "streamUrl": "https://trkvz-live.daioncdn.net/a2tv/a2tv.m3u8",
-    "logoUrl": "https://www.a2tv.com.tr/assets/img/logo.png",
-    "category": "Ulusal"
+    "url": "https://trkvz-live.daioncdn.net/a2tv/a2tv.m3u8",
+    "description": "A2TV",
+    "thumbnailUrl": "https://www.a2tv.com.tr/assets/img/logo.png"
   },
   {
     "name": "A Spor",
-    "streamUrl": "https://trkvz-live.daioncdn.net/aspor/aspor.m3u8",
-    "logoUrl": "https://www.aspor.com.tr/assets/img/logo.png",
-    "category": "Spor"
+    "url": "https://trkvz-live.daioncdn.net/aspor/aspor.m3u8",
+    "description": "A Spor",
+    "thumbnailUrl": "https://www.aspor.com.tr/assets/img/logo.png"
   },
   {
     "name": "Halk TV",
-    "streamUrl": "https://halktv-live.daioncdn.net/halktv/halktv.m3u8",
-    "logoUrl": "https://www.halktv.com.tr/assets/img/logo.png",
-    "category": "Haber"
+    "url": "https://halktv-live.daioncdn.net/halktv/halktv.m3u8",
+    "description": "Halk TV",
+    "thumbnailUrl": "https://www.halktv.com.tr/assets/img/logo.png"
   },
   {
     "name": "Habertürk TV",
-    "streamUrl": "https://ciner-live.daioncdn.net/haberturktv/haberturktv.m3u8",
-    "logoUrl": "https://www.haberturk.com.tr/assets/img/logo.png",
-    "category": "Haber"
+    "url": "https://ciner-live.daioncdn.net/haberturktv/haberturktv.m3u8",
+    "description": "Habertürk TV",
+    "thumbnailUrl": "https://www.haberturk.com.tr/assets/img/logo.png"
   },
   {
     "name": "Tele 1",
-    "streamUrl": "https://tele1-live.ercdn.net/tele1/tele1.m3u8",
-    "logoUrl": "https://www.tele1.com.tr/assets/img/logo.png",
-    "category": "Haber"
+    "url": "https://tele1-live.ercdn.net/tele1/tele1.m3u8",
+    "description": "Tele 1",
+    "thumbnailUrl": "https://www.tele1.com.tr/assets/img/logo.png"
   },
   {
     "name": "360 TV",
-    "streamUrl": "https://turkmedya-live.ercdn.net/tv360/tv360.m3u8",
-    "logoUrl": "https://www.360tv.com.tr/assets/img/logo.png",
-    "category": "Haber"
+    "url": "https://turkmedya-live.ercdn.net/tv360/tv360.m3u8",
+    "description": "360 TV",
+    "thumbnailUrl": "https://www.360tv.com.tr/assets/img/logo.png"
   },
   {
     "name": "TV 100",
-    "streamUrl": "https://tv100-live.daioncdn.net/tv100/tv100.m3u8",
-    "logoUrl": "https://www.tv100.com.tr/assets/img/logo.png",
-    "category": "Haber"
+    "url": "https://tv100-live.daioncdn.net/tv100/tv100.m3u8",
+    "description": "TV 100",
+    "thumbnailUrl": "https://www.tv100.com.tr/assets/img/logo.png"
   },
   {
     "name": "Kral Pop TV",
-    "streamUrl": "https://dogus-live.daioncdn.net/kralpoptv/playlist.m3u8",
-    "logoUrl": "https://www.kral.com.tr/assets/img/logo.png",
-    "category": "Müzik"
+    "url": "https://dogus-live.daioncdn.net/kralpoptv/playlist.m3u8",
+    "description": "Kral Pop TV",
+    "thumbnailUrl": "https://www.kral.com.tr/assets/img/logo.png"
   },
   {
     "name": "Kral TV",
-    "streamUrl": "https://dogus-live.daioncdn.net/kraltv/playlist.m3u8",
-    "logoUrl": "https://www.kral.com.tr/assets/img/logo.png",
-    "category": "Müzik"
+    "url": "https://dogus-live.daioncdn.net/kraltv/playlist.m3u8",
+    "description": "Kral TV",
+    "thumbnailUrl": "https://www.kral.com.tr/assets/img/logo.png"
   },
   {
     "name": "Dream Türk",
-    "streamUrl": "https://live.duhnet.tv/S2/HLS_LIVE/dreamturknp/playlist.m3u8",
-    "logoUrl": "https://www.dream.com.tr/assets/img/logo.png",
-    "category": "Müzik"
+    "url": "https://live.duhnet.tv/S2/HLS_LIVE/dreamturknp/playlist.m3u8",
+    "description": "Dream Türk",
+    "thumbnailUrl": "https://www.dream.com.tr/assets/img/logo.png"
   },
   {
     "name": "TJK TV",
-    "streamUrl": "https://tjktv-live.tjk.org/tjktv.m3u8",
-    "logoUrl": "https://www.tjk.org/assets/img/logo.png",
-    "category": "Spor"
+    "url": "https://tjktv-live.tjk.org/tjktv.m3u8",
+    "description": "TJK TV",
+    "thumbnailUrl": "https://www.tjk.org/assets/img/logo.png"
   },
   {
     "name": "TGRT Haber",
-    "streamUrl": "https://canli.tgrthaber.com/tgrt.m3u8",
-    "logoUrl": "https://www.tgrthaber.com/assets/img/logo.png",
-    "category": "Haber"
+    "url": "https://canli.tgrthaber.com/tgrt.m3u8",
+    "description": "TGRT Haber",
+    "thumbnailUrl": "https://www.tgrthaber.com/assets/img/logo.png"
   },
   {
     "name": "Bloomberg HT",
-    "streamUrl": "https://tv.ensonhaber.com/bloomberght/bloomberght.m3u8",
-    "logoUrl": "https://www.bloomberght.com/assets/img/logo.png",
-    "category": "Ekonomi"
+    "url": "https://tv.ensonhaber.com/bloomberght/bloomberght.m3u8",
+    "description": "Bloomberg HT",
+    "thumbnailUrl": "https://www.bloomberght.com/assets/img/logo.png"
   },
   {
     "name": "NTV",
-    "streamUrl": "https://dogus-live.daioncdn.net/ntv/ntv.m3u8",
-    "logoUrl": "https://www.ntv.com.tr/assets/img/logo.png",
-    "category": "Haber"
+    "url": "https://dogus-live.daioncdn.net/ntv/ntv.m3u8",
+    "description": "NTV",
+    "thumbnailUrl": "https://www.ntv.com.tr/assets/img/logo.png"
   },
   {
     "name": "24 TV",
-    "streamUrl": "https://mn-nl.mncdn.com/kanal24/smil:kanal24.smil/playlist.m3u8",
-    "logoUrl": "https://www.24tv.com.tr/assets/img/logo.png",
-    "category": "Haber"
+    "url": "https://mn-nl.mncdn.com/kanal24/smil:kanal24.smil/playlist.m3u8",
+    "description": "24 TV",
+    "thumbnailUrl": "https://www.24tv.com.tr/assets/img/logo.png"
   }
 ]
