@@ -2,7 +2,7 @@
   [
 {
   "name": "TRT Haber",
-  "url": "https://tv-trthaber.medya.trt.com.tr/master.m3u8",
+  "url": "https://tv-trt1-dai.medya.trt.com.tr/master.m3u8",
   "description": "TRT Haber canlı yayını",
   "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/TRT_Haber_2021_logo.svg/512px-TRT_Haber_2021_logo.svg.png"
 }
