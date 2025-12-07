@@ -1,7 +1,6 @@
-[
-  {
-    "streamUrl": "https://tv-trthaber.medya.trt.com.tr/master.m3u8",
-    "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/TRT_Haber_2021_logo.svg/512px-TRT_Haber_2021_logo.svg.png",
-    "category": "Genel"
-  }
-]
+{
+  "name": "TRT Haber",
+  "url": "https://tv-trthaber.medya.trt.com.tr/master_720.m3u8",
+  "description": "TRT Haber canlı yayını (720p)",
+  "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/TRT_Haber_2021_logo.svg/512px-TRT_Haber_2021_logo.svg.png"
+}
