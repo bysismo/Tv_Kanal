@@ -1,251 +1,180 @@
-[
-  {
-    "name": "CNN TÜRK",
-    "streamUrl": "https://mn-nl.mncdn.com/blutv_cnnturk/smil:cnnturk_sd.smil/playlist.m3u8",
-    "streamUrlBackup": "http://212.224.108.80/S1/HLS_LIVE/cnn_turk/1000/prog_index.m3u8",
-    "youtubeUrl": "https://www.youtube.com/@cnnturk",
-    "logoUrl": "https://upload.wikimedia.org/wikipedia/tr/8/8a/CNN_Turk_Logo.png",
-    "category": "Haber",
-    "website": "https://www.cnnturk.com"
-  },
-  {
-    "name": "HABERTURK",
-    "streamUrl": "https://mn-nl.mncdn.com/blutv_haberturk/smil:haberturk_sd.smil/playlist.m3u8",
-    "streamUrlBackup": "http://mn-l.mncdn.com/haberturk/haberturk2/HasBahCa.m3u8",
-    "logoUrl": "https://upload.wikimedia.org/wikipedia/tr/c/c5/Haberturk_Logo.png",
-    "category": "Haber",
-    "website": "https://www.haberturk.com"
-  },
-  {
-    "name": "NTV",
-    "streamUrl": "https://mn-nl.mncdn.com/blutv_ntv/ntv_sd.smil/playlist.m3u8",
-    "streamUrlBackup": "http://origin2.live.web.tv.streamprovider.net/streams/725528006e858fe951867f4e2436843f_live_0_0/index.m3u8",
-    "logoUrl": "https://upload.wikimedia.org/wikipedia/tr/8/8f/NTV_Logo.png",
-    "category": "Haber",
-    "website": "https://www.ntv.com.tr"
-  },
-  {
-    "name": "A HABER",
-    "streamUrl": "http://trkvz-m.ercdn.net/trkvz-temp/ahaberhdm.m3u8",
-    "streamUrlBackup": "http://origin2.live.web.tv.streamprovider.net/streams/996642ce8e8f48d5438c6de972497d4a_live_0_0/index.m3u8",
-    "logoUrl": "https://upload.wikimedia.org/wikipedia/tr/f/f9/A_Haber_Logo.png",
-    "category": "Haber",
-    "website": "https://www.ahaber.com.tr"
-  },
-  {
-    "name": "HABER GLOBAL",
-    "streamUrl": "https://mn-nl.mncdn.com/blutv_haberglobal/smil:haberglobal_sd.smil/playlist.m3u8",
-    "streamUrlBackup": "",
-    "logoUrl": "https://upload.wikimedia.org/wikipedia/tr/1/1c/Haber_Global_Logo.png",
-    "category": "Haber",
-    "website": "https://haberglobal.com"
-  },
-  {
-    "name": "KANAL D",
-    "streamUrl": "https://dogus-live.daioncdn.net/kanald/kanald.m3u8",
-    "streamUrlBackup": "http://soledge7.dogannet.tv/S2/HLS_LIVE/kanald/1000/prog_index.m3u8",
-    "logoUrl": "https://upload.wikimedia.org/wikipedia/tr/f/f5/Kanal_D_Logo.png",
-    "category": "Ulusal",
-    "website": "https://www.kanald.com.tr"
-  },
-  {
-    "name": "SHOW TV",
-    "streamUrl": "https://dogus-live.daioncdn.net/showtv/showtv.m3u8",
-    "streamUrlBackup": "https://blutv-beta.akamaized.net/showhd/showtvhd.smil/playlist.m3u8",
-    "logoUrl": "https://upload.wikimedia.org/wikipedia/tr/0/0a/Show_TV_Logo.png",
-    "category": "Ulusal",
-    "website": "https://www.showtv.com.tr"
-  },
-  {
-    "name": "ATV",
-    "streamUrl": "http://trkvz-m.ercdn.net/trkvz-temp/atvhdm.m3u8",
-    "streamUrlBackup": "http://origin.live.web.tv.streamprovider.net/streams/0a982dbefc5e9d29952bda5a981a9c6d_live_0_0/index.m3u8",
-    "logoUrl": "https://upload.wikimedia.org/wikipedia/tr/d/d1/ATV_Logo.png",
-    "category": "Ulusal",
-    "website": "https://www.atv.com.tr"
-  },
-  {
-    "name": "STAR TV",
-    "streamUrl": "http://lcgid8xu.rocketcdn.com/startvhd.stream_720p/chunklist.m3u8",
-    "streamUrlBackup": "",
-    "logoUrl": "https://upload.wikimedia.org/wikipedia/tr/7/7c/Star_TV_Logo.png",
-    "category": "Ulusal",
-    "website": "https://www.startv.com.tr"
-  },
-  {
-    "name": "FOX TV",
-    "streamUrl": "http://blutv-beta.akamaized.net/foxtvhd/foxtvhd.smil/playlist.m3u8",
-    "streamUrlBackup": "",
-    "logoUrl": "https://upload.wikimedia.org/wikipedia/tr/6/6f/Fox_TV_Logo.png",
-    "category": "Ulusal",
-    "website": "https://www.fox.com.tr"
-  },
-  {
-    "name": "TV8",
-    "streamUrl": "http://blutv-beta.akamaized.net/tv8hd/tv8hd.smil/chunklist_b2628000_sltur.m3u8",
-    "streamUrlBackup": "",
-    "logoUrl": "https://upload.wikimedia.org/wikipedia/tr/a/a1/TV8_Logo.png",
-    "category": "Ulusal",
-    "website": "https://www.tv8.com.tr"
-  },
-  {
-    "name": "BEYAZ TV",
-    "streamUrl": "https://mn-nl.mncdn.com/blutv_beyaztv/smil:beyaztv_sd.smil/playlist.m3u8",
-    "streamUrlBackup": "https://tv.ensonhaber.com/tv/tr/beyaztv/index.m3u8",
-    "logoUrl": "https://upload.wikimedia.org/wikipedia/tr/7/74/Beyaz_TV_Logo.png",
-    "category": "Ulusal",
-    "website": "https://www.beyaztv.com.tr"
-  },
-  {
-    "name": "KANAL 7",
-    "streamUrl": "https://mn-nl.mncdn.com/blutv_kanal7/kanal7_sd.smil/playlist.m3u8",
-    "streamUrlBackup": "",
-    "logoUrl": "https://upload.wikimedia.org/wikipedia/tr/4/42/Kanal_7_Logo.png",
-    "category": "Ulusal",
-    "website": "https://www.kanal7.com.tr"
-  },
-  {
-    "name": "TRT 1",
-    "streamUrl": "https://d1u68oyra9spme.cloudfront.net/master.m3u8",
-    "streamUrlBackup": "http://trtcanlitv-lh.akamaihd.net/i/TRTHD_1@182045/master.m3u8",
-    "logoUrl": "https://upload.wikimedia.org/wikipedia/tr/f/f1/TRT_1_Logo.png",
-    "category": "Ulusal",
-    "website": "https://www.trt.net.tr"
-  },
-  {
-    "name": "TRT HABER",
-    "streamUrl": "https://tv-trthaber.live.trt.com.tr/master_720.m3u8",
-    "streamUrlBackup": "http://trtcanlitv-lh.akamaihd.net/i/TRTHABERHD_1@181942/index_1500_av-p.m3u8",
-    "logoUrl": "https://upload.wikimedia.org/wikipedia/tr/a/a8/TRT_Haber_Logo.png",
-    "category": "Haber",
-    "website": "https://www.trthaber.com"
-  },
-  {
-    "name": "TRT BELGESEL",
-    "streamUrl": "https://tv-trtbelgesel.live.trt.com.tr/master.m3u8",
-    "streamUrlBackup": "http://trtcanlitv-lh.akamaihd.net/i/TRTBELGESEL_1@182145/master.m3u8",
-    "logoUrl": "https://upload.wikimedia.org/wikipedia/tr/e/e3/TRT_Belgesel_Logo.png",
-    "category": "Belgesel",
-    "website": "https://www.trt.net.tr"
-  },
-  {
-    "name": "TGRT BELGESEL",
-    "streamUrl": "http://tgrtbelgesel.mediatriple.net:1935/tgrtbliveedge/smil:tgrtb.smil/HasBahCa.m3u8",
-    "streamUrlBackup": "http://origin.live.web.tv.streamprovider.net/streams/72ea283235f55344ae98853fcab1020c/index.m3u8",
-    "logoUrl": "https://upload.wikimedia.org/wikipedia/tr/9/9f/TGRT_Belgesel_Logo.png",
-    "category": "Belgesel",
-    "website": "https://www.tgrt.com"
-  },
-  {
-    "name": "TLC",
-    "streamUrl": "https://pa9agxjg.rocketcdn.com/tlctv.smil/index.m3u8",
-    "streamUrlBackup": "",
-    "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/0/0d/TLC_Logo.png",
-    "category": "Belgesel",
-    "website": "https://www.tlcturk.com"
-  },
-  {
-    "name": "24 TV",
-    "streamUrl": "https://mn-nl.mncdn.com/kanal24/smil:kanal24.smil/chunklist_b896000.m3u8",
-    "streamUrlBackup": "",
-    "logoUrl": "https://upload.wikimedia.org/wikipedia/tr/6/63/24_TV_Logo.png",
-    "category": "Haber",
-    "website": "https://www.24tv.com.tr"
-  },
-  {
-    "name": "TGRT HABER",
-    "streamUrl": "http://origin.live.web.tv.streamprovider.net/streams/b9b5c58f4f1e3a925fa486c558654f6d/index.m3u8",
-    "streamUrlBackup": "https://5ab9557ae2fa9.streamlock.net/tgrt_haber/amlst:live-25/chunklist_w445644355_b1200096.m3u8",
-    "logoUrl": "https://upload.wikimedia.org/wikipedia/tr/d/db/TGRT_Haber_Logo.png",
-    "category": "Haber",
-    "website": "https://www.tgrt.com"
-  },
-  {
-    "name": "BLOOMBERG HT",
-    "streamUrl": "https://mn-nl.mncdn.com/blutv_bloomberght/smil:bloomberght_sd.smil/playlist.m3u8",
-    "streamUrlBackup": "https://tv.ensonhaber.com/tv/tr/bloomberght/index.m3u8",
-    "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/f/f0/Bloomberg_HT_Logo.png",
-    "category": "Haber",
-    "website": "https://www.bloomberght.com"
-  },
-  {
-    "name": "TRT ÇOCUK",
-    "streamUrl": "http://trtcanlitv-lh.akamaihd.net/i/TRTCOCUK_1@181844/master.m3u8",
-    "streamUrlBackup": "",
-    "logoUrl": "https://upload.wikimedia.org/wikipedia/tr/3/32/TRT_Çocuk_Logo.png",
-    "category": "Çizgi Film",
-    "website": "https://www.trt.net.tr"
-  },
-  {
-    "name": "CARTOON NETWORK",
-    "streamUrl": "http://ys-users.com:8080/turneradt@gmail.com/S2PEcrwpdm/418037",
-    "streamUrlBackup": "",
-    "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/8/83/Cartoon_Network_2010_logo.svg",
-    "category": "Çizgi Film",
-    "website": "https://www.cartoonnetwork.com"
-  },
-  {
-    "name": "BOOMERANG",
-    "streamUrl": "http://ys-users.com:8080/turneradt@gmail.com/S2PEcrwpdm/418036",
-    "streamUrlBackup": "",
-    "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/6/62/Boomerang_2015_logo.svg",
-    "category": "Çizgi Film",
-    "website": "https://www.boomerang.com"
-  },
-  {
-    "name": "DISNEY CHANNEL",
-    "streamUrl": "http://ys-users.com:8080/turneradt@gmail.com/S2PEcrwpdm/418033",
-    "streamUrlBackup": "",
-    "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/1/1a/Disney_Channel_2014_logo.svg",
-    "category": "Çizgi Film",
-    "website": "https://www.disneyturkey.com"
-  },
-  {
-    "name": "NICKELODEON",
-    "streamUrl": "http://ys-users.com:8080/turneradt@gmail.com/S2PEcrwpdm/418043",
-    "streamUrlBackup": "",
-    "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/3/37/Nickelodeon_logo_2009.svg",
-    "category": "Çizgi Film",
-    "website": "https://www.nickelodeon.com"
-  },
-  {
-    "name": "TRT MÜZİK",
-    "streamUrl": "http://trtcanlitv-lh.akamaihd.net/i/TRTMUZIK_1@181845/master.m3u8",
-    "streamUrlBackup": "",
-    "logoUrl": "https://upload.wikimedia.org/wikipedia/tr/e/e1/TRT_Muzik_Logo.png",
-    "category": "Müzik",
-    "website": "https://www.trt.net.tr"
-  },
-  {
-    "name": "POWER TURK",
-    "streamUrl": "https://mn-nl.mncdn.com/blutv_powerturk/smil:powerturk_sd.smil/playlist.m3u8",
-    "streamUrlBackup": "",
-    "logoUrl": "https://upload.wikimedia.org/wikipedia/tr/5/5f/PowerTurk_Logo.png",
-    "category": "Müzik",
-    "website": "https://www.powerturk.com.tr"
-  },
-  {
-    "name": "KRAL POP",
-    "streamUrl": "https://n10101m.mediatriple.net/videoonlylive/mtkgeuihrlfwlive/broadcast_5c9e19877b340.smil/playlist.m3u8",
-    "streamUrlBackup": "",
-    "logoUrl": "https://upload.wikimedia.org/wikipedia/tr/5/50/KRAL_POP_Logo.png",
-    "category": "Müzik",
-    "website": "https://www.kralpop.com.tr"
-  },
-  {
-    "name": "A SPOR",
-    "streamUrl": "http://trkvz-m.ercdn.net/trkvz-temp/asporhdm.m3u8",
-    "streamUrlBackup": "",
-    "logoUrl": "https://upload.wikimedia.org/wikipedia/tr/2/2c/A_Spor_Logo.png",
-    "category": "Spor",
-    "website": "https://www.aspor.com.tr"
-  },
-  {
-    "name": "TRT SPOR",
-    "streamUrl": "https://trt-live.ercdn.net/trtspor/trtspor_1.m3u8",
-    "streamUrlBackup": "https://trt-live.ercdn.net/trtspor/trtspor_2.m3u8",
-    "logoUrl": "https://upload.wikimedia.org/wikipedia/tr/c/cd/TRT_Spor_Logo.png",
-    "category": "Spor",
-    "website": "https://www.trt.net.tr"
-  }
-]
+{
+  "channels": [
+    {
+      "id": "now",
+      "name": "NOW TV",
+      "logo": "https://upload.wikimedia.org/wikipedia/tr/8/87/Now_logo.png",
+      "stream_url": "https://foxtv.blutv.com/blutv_foxtv_live/live.m3u8",
+      "type": "hls",
+      "category": "Ulusal"
+    },
+    {
+      "id": "trt1",
+      "name": "TRT 1",
+      "logo": "https://upload.wikimedia.org/wikipedia/commons/f/f7/TRT_1_logo_(2012-2021).png",
+      "stream_url": "https://tv-trt1-dai.medya.trt.com.tr/master.m3u8",
+      "type": "hls",
+      "category": "Ulusal"
+    },
+    {
+      "id": "kanald",
+      "name": "Kanal D",
+      "logo": "https://upload.wikimedia.org/wikipedia/commons/6/62/Kanal_D_logo.png",
+      "stream_url": "https://demiroren-live.daioncdn.net/kanald/kanald.m3u8",
+      "type": "hls",
+      "category": "Ulusal"
+    },
+    {
+      "id": "atv",
+      "name": "ATV",
+      "logo": "https://upload.wikimedia.org/wikipedia/commons/1/1a/Atv_logo.png",
+      "stream_url": "https://trtkvz.daioncdn.net/atv/atv_1080p.m3u8",
+      "type": "hls",
+      "category": "Ulusal"
+    },
+    {
+      "id": "showtv",
+      "name": "Show TV",
+      "logo": "https://upload.wikimedia.org/wikipedia/tr/f/f9/Show_TV.png",
+      "stream_url": "https://ciner-live.daioncdn.net/showtv/showtv.m3u8",
+      "type": "hls",
+      "category": "Ulusal"
+    },
+    {
+      "id": "startv",
+      "name": "Star TV",
+      "logo": "https://upload.wikimedia.org/wikipedia/tr/0/03/Star_TV_logosu.png",
+      "stream_url": "https://dogus-live.daioncdn.net/startv/startv.m3u8",
+      "type": "hls",
+      "category": "Ulusal"
+    },
+    {
+      "id": "tv8",
+      "name": "TV8",
+      "logo": "https://upload.wikimedia.org/wikipedia/tr/8/84/TV8_logo.png",
+      "stream_url": "https://tv8-live.daioncdn.net/tv8/tv8.m3u8",
+      "type": "hls",
+      "category": "Ulusal"
+    },
+    {
+      "id": "halktv",
+      "name": "Halk TV",
+      "logo": "https://upload.wikimedia.org/wikipedia/tr/e/e8/Halk_TV_logosu.png",
+      "stream_url": "https://halktv.blutv.com/blutv_halktv_live/live.m3u8",
+      "type": "hls",
+      "category": "Haber"
+    },
+    {
+      "id": "haberturk",
+      "name": "Habertürk",
+      "logo": "https://upload.wikimedia.org/wikipedia/commons/3/38/Habert%C3%BCrk_TV_logosu.png",
+      "stream_url": "https://ciner-live.daioncdn.net/haberturktv/haberturktv.m3u8",
+      "type": "hls",
+      "category": "Haber"
+    },
+    {
+      "id": "cnnturk",
+      "name": "CNN Türk",
+      "logo": "https://upload.wikimedia.org/wikipedia/commons/1/16/CNN_T%C3%BCrk_logo.svg",
+      "stream_url": "https://live.duhnet.tv/S2/HLS_LIVE/cnnturknp/playlist.m3u8",
+      "type": "hls",
+      "category": "Haber"
+    },
+    {
+      "id": "ntv",
+      "name": "NTV",
+      "logo": "https://upload.wikimedia.org/wikipedia/commons/d/df/NTV_%28Turkey%29_logo.svg",
+      "stream_url": "https://dogus-live.daioncdn.net/ntv/ntv.m3u8",
+      "type": "hls",
+      "category": "Haber"
+    },
+    {
+      "id": "trthaber",
+      "name": "TRT Haber",
+      "logo": "https://upload.wikimedia.org/wikipedia/commons/6/68/TRT_Haber_logo.png",
+      "stream_url": "https://tv-trthaber.medya.trt.com.tr/master.m3u8",
+      "type": "hls",
+      "category": "Haber"
+    },
+    {
+      "id": "haberglobal",
+      "name": "Haber Global",
+      "logo": "https://upload.wikimedia.org/wikipedia/commons/4/4c/Haber_Global_logo.svg",
+      "stream_url": "https://mn-nl.mncdn.com/blutv_haberglobal2/live.m3u8",
+      "type": "hls",
+      "category": "Haber"
+    },
+    {
+      "id": "sozcutv",
+      "name": "Sözcü TV",
+      "logo": "https://upload.wikimedia.org/wikipedia/commons/7/7b/S%C3%B6zc%C3%BC_TV_logo.png",
+      "stream_url": "http://stream.tvcdn.net/haber/sozcu-tv.m3u8",
+      "type": "hls",
+      "category": "Haber"
+    },
+    {
+      "id": "bloomberght",
+      "name": "Bloomberg HT",
+      "logo": "https://upload.wikimedia.org/wikipedia/tr/8/80/BloombergHT_logo.png",
+      "stream_url": "https://tv.ensonhaber.com/tv/tr/bloomberght/index.m3u8",
+      "type": "hls",
+      "category": "Ekonomi"
+    },
+    {
+      "id": "tgrthaber",
+      "name": "TGRT Haber",
+      "logo": "https://upload.wikimedia.org/wikipedia/commons/8/8d/TGRT_Haber_logo.svg",
+      "stream_url": "https://tv.ensonhaber.com/tv/tr/tgrthaber/index.m3u8",
+      "type": "hls",
+      "category": "Haber"
+    },
+    {
+      "id": "aspor",
+      "name": "A Spor",
+      "logo": "https://upload.wikimedia.org/wikipedia/tr/2/25/A_Spor_logosu.png",
+      "stream_url": "https://trkvz-live.daioncdn.net/aspor/aspor_720p.m3u8",
+      "type": "hls",
+      "category": "Spor"
+    },
+    {
+      "id": "trt2",
+      "name": "TRT 2",
+      "logo": "https://upload.wikimedia.org/wikipedia/commons/6/6e/TRT2_logo.png",
+      "stream_url": "https://tv-trt2.medya.trt.com.tr/master_720.m3u8",
+      "type": "hls",
+      "category": "Kültür"
+    },
+    {
+      "id": "trtcocuk",
+      "name": "TRT Çocuk",
+      "logo": "https://upload.wikimedia.org/wikipedia/commons/f/f2/TRT_%C3%87ocuk_logo_2011-2017.png",
+      "stream_url": "https://tv-trtcocuk.medya.trt.com.tr/master_720.m3u8",
+      "type": "hls",
+      "category": "Çocuk"
+    },
+    {
+      "id": "trtbelgesel",
+      "name": "TRT Belgesel",
+      "logo": "https://upload.wikimedia.org/wikipedia/commons/0/09/TRT_Belgesel_logo_2019.png",
+      "stream_url": "https://tv-trtbelgesel.medya.trt.com.tr/master_720.m3u8",
+      "type": "hls",
+      "category": "Belgesel"
+    },
+    {
+      "id": "trtspor",
+      "name": "TRT Spor",
+      "logo": "https://upload.wikimedia.org/wikipedia/commons/2/2a/TRT_Spor_logo_2017.png",
+      "stream_url": "https://tv-trtspor1.medya.trt.com.tr/master.m3u8",
+      "type": "hls",
+      "category": "Spor"
+    },
+    {
+      "id": "trtsporyildiz",
+      "name": "TRT Spor Yıldız",
+      "logo": "https://upload.wikimedia.org/wikipedia/commons/c/c5/TRT_Spor_Yıldız_logo.png",
+      "stream_url": "https://tv-trtspor2.medya.trt.com.tr/master.m3u8",
+      "type": "hls",
+      "category": "Spor"
+    }
+  ]
+}
