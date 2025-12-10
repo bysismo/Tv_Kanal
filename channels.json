@@ -1,27 +1,46 @@
 [
   {
-    "name": "TRT 1",
-    "url": "https://tv-trt1.medya.trt.com.tr/master.m3u8",
-    "description": "TRT Ana Kanal",
-    "thumbnailUrl": "https://www.trt1.com.tr/assets/img/logo.png"
-  },
-  {
     "name": "TRT Haber",
     "url": "https://tv-trthaber.medya.trt.com.tr/master.m3u8",
     "description": "TRT Haber",
     "thumbnailUrl": "https://www.trthaber.com/assets/img/logo.png"
   },
   {
-    "name": "TRT Çocuk",
-    "url": "https://tv-trtcocuk.medya.trt.com.tr/master.m3u8",
-    "description": "TRT Çocuk",
-    "thumbnailUrl": "https://www.trtcocuk.com.tr/assets/img/logo.png"
+    "name": "Halk TV",
+    "url": "https://halktv-live.daioncdn.net/halktv/halktv.m3u8",
+    "description": "Halk TV",
+    "thumbnailUrl": "https://www.halktv.com.tr/assets/img/logo.png"
   },
   {
-    "name": "TRT Müzik",
-    "url": "https://tv-trtmuzik.medya.trt.com.tr/master.m3u8",
-    "description": "TRT Müzik",
-    "thumbnailUrl": "https://www.trtmuzik.com.tr/assets/img/logo.png"
+    "name": "Tele 1",
+    "url": "https://tele1-live.ercdn.net/tele1/tele1.m3u8",
+    "description": "Tele 1",
+    "thumbnailUrl": "https://www.tele1.com.tr/assets/img/logo.png"
+  },
+  {
+    "name": "TGRT Haber",
+    "url": "https://canli.tgrthaber.com/tgrt.m3u8",
+    "description": "TGRT Haber",
+    "thumbnailUrl": "https://www.tgrthaber.com/assets/img/logo.png"
+  },
+  {
+    "name": "TV 100",
+    "url": "https://tv100-live.daioncdn.net/tv100/tv100.m3u8",
+    "description": "TV 100",
+    "thumbnailUrl": "https://www.tv100.com.tr/assets/img/logo.png"
+  },
+  {
+    "name": "Bloomberg HT",
+    "url": "https://tv.ensonhaber.com/bloomberght/bloomberght.m3u8",
+    "description": "Bloomberg HT",
+    "thumbnailUrl": "https://www.bloomberght.com/assets/img/logo.png"
+  },
+
+  {
+    "name": "TRT 1",
+    "url": "https://tv-trt1.medya.trt.com.tr/master.m3u8",
+    "description": "TRT Ana Kanal",
+    "thumbnailUrl": "https://www.trt1.com.tr/assets/img/logo.png"
   },
   {
     "name": "ATV",
@@ -60,34 +79,28 @@
     "thumbnailUrl": "https://www.a2tv.com.tr/assets/img/logo.png"
   },
   {
-    "name": "A Spor",
-    "url": "https://trkvz-live.daioncdn.net/aspor/aspor.m3u8",
-    "description": "A Spor",
-    "thumbnailUrl": "https://www.aspor.com.tr/assets/img/logo.png"
-  },
-  {
-    "name": "Halk TV",
-    "url": "https://halktv-live.daioncdn.net/halktv/halktv.m3u8",
-    "description": "Halk TV",
-    "thumbnailUrl": "https://www.halktv.com.tr/assets/img/logo.png"
-  },
-  {
-    "name": "Tele 1",
-    "url": "https://tele1-live.ercdn.net/tele1/tele1.m3u8",
-    "description": "Tele 1",
-    "thumbnailUrl": "https://www.tele1.com.tr/assets/img/logo.png"
-  },
-  {
     "name": "360 TV",
     "url": "https://turkmedya-live.ercdn.net/tv360/tv360.m3u8",
     "description": "360 TV",
     "thumbnailUrl": "https://www.360tv.com.tr/assets/img/logo.png"
   },
   {
-    "name": "TV 100",
-    "url": "https://tv100-live.daioncdn.net/tv100/tv100.m3u8",
-    "description": "TV 100",
-    "thumbnailUrl": "https://www.tv100.com.tr/assets/img/logo.png"
+    "name": "A Spor",
+    "url": "https://trkvz-live.daioncdn.net/aspor/aspor.m3u8",
+    "description": "A Spor",
+    "thumbnailUrl": "https://www.aspor.com.tr/assets/img/logo.png"
+  },
+  {
+    "name": "TJK TV",
+    "url": "https://tjktv-live.tjk.org/tjktv.m3u8",
+    "description": "TJK TV",
+    "thumbnailUrl": "https://www.tjk.org/assets/img/logo.png"
+  },
+  {
+    "name": "TRT Müzik",
+    "url": "https://tv-trtmuzik.medya.trt.com.tr/master.m3u8",
+    "description": "TRT Müzik",
+    "thumbnailUrl": "https://www.trtmuzik.com.tr/assets/img/logo.png"
   },
   {
     "name": "Kral Pop TV",
@@ -101,22 +114,11 @@
     "description": "Dream Türk",
     "thumbnailUrl": "https://www.dream.com.tr/assets/img/logo.png"
   },
+
   {
-    "name": "TJK TV",
-    "url": "https://tjktv-live.tjk.org/tjktv.m3u8",
-    "description": "TJK TV",
-    "thumbnailUrl": "https://www.tjk.org/assets/img/logo.png"
-  },
-  {
-    "name": "TGRT Haber",
-    "url": "https://canli.tgrthaber.com/tgrt.m3u8",
-    "description": "TGRT Haber",
-    "thumbnailUrl": "https://www.tgrthaber.com/assets/img/logo.png"
-  },
-  {
-    "name": "Bloomberg HT",
-    "url": "https://tv.ensonhaber.com/bloomberght/bloomberght.m3u8",
-    "description": "Bloomberg HT",
-    "thumbnailUrl": "https://www.bloomberght.com/assets/img/logo.png"
+    "name": "TRT Çocuk",
+    "url": "https://tv-trtcocuk.medya.trt.com.tr/master.m3u8",
+    "description": "TRT Çocuk",
+    "thumbnailUrl": "https://www.trtcocuk.com.tr/assets/img/logo.png"
   }
 ]
