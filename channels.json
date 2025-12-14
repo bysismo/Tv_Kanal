@@ -43,12 +43,6 @@
     "thumbnailUrl": "https://www.trt1.com.tr/assets/img/logo.png"
   },
   {
-    "name": "ATV",
-    "url": "http://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/atv/atv_360p.m3u8",
-    "description": "ATV Ana Kanal",
-    "thumbnailUrl": "https://www.atv.com.tr/assets/img/logo.png"
-  },
-  {
     "name": "Kanal D",
     "url": "https://demiroren.daioncdn.net/kanald/kanald.m3u8?app=kanald_web&ce=3",
     "description": "Kanal D",
@@ -73,22 +67,10 @@
     "thumbnailUrl": "https://www.beyaztv.com.tr/assets/img/logo.png"
   },
   {
-    "name": "A2TV",
-    "url": "https://trkvz-live.daioncdn.net/a2tv/a2tv.m3u8",
-    "description": "A2TV",
-    "thumbnailUrl": "https://www.a2tv.com.tr/assets/img/logo.png"
-  },
-  {
     "name": "360 TV",
     "url": "https://turkmedya-live.ercdn.net/tv360/tv360.m3u8",
     "description": "360 TV",
     "thumbnailUrl": "https://www.360tv.com.tr/assets/img/logo.png"
-  },
-  {
-    "name": "A Spor",
-    "url": "https://trkvz-live.daioncdn.net/aspor/aspor.m3u8",
-    "description": "A Spor",
-    "thumbnailUrl": "https://www.aspor.com.tr/assets/img/logo.png"
   },
   {
     "name": "TJK TV",
@@ -103,22 +85,29 @@
     "thumbnailUrl": "https://www.trtmuzik.com.tr/assets/img/logo.png"
   },
   {
-    "name": "Kral Pop TV",
-    "url": "https://dogus-live.daioncdn.net/kralpoptv/playlist.m3u8",
-    "description": "Kral Pop TV",
-    "thumbnailUrl": "https://www.kral.com.tr/assets/img/logo.png"
-  },
-  {
     "name": "Dream Türk",
     "url": "https://live.duhnet.tv/S2/HLS_LIVE/dreamturknp/playlist.m3u8",
     "description": "Dream Türk",
     "thumbnailUrl": "https://www.dream.com.tr/assets/img/logo.png"
   },
-
   {
     "name": "TRT Çocuk",
     "url": "https://tv-trtcocuk.medya.trt.com.tr/master.m3u8",
     "description": "TRT Çocuk",
     "thumbnailUrl": "https://www.trtcocuk.com.tr/assets/img/logo.png"
+  },
+  {
+    "name": "TRT Avaz",
+    "streamUrl": "https://tv-trtavaz.medya.trt.com.tr/master.m3u8",
+    "logoUrl": "",
+    "category": "Uluslararası"
+  },
+  {
+    "name": "TRT Belgesel",
+    "streamUrl": "https://tv-trtbelgesel.medya.trt.com.tr/master.m3u8",
+    "logoUrl": "",
+    "category": "Belgesel"
   }
+  
+  
 ]
