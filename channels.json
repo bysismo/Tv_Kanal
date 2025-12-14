@@ -98,15 +98,15 @@
   },
   {
     "name": "TRT Avaz",
-    "streamUrl": "https://tv-trtavaz.medya.trt.com.tr/master.m3u8",
-    "logoUrl": "",
-    "category": "Uluslararası"
+    "url": "https://tv-trtavaz.medya.trt.com.tr/master.m3u8",
+    "description": "",
+    "thumbnailUrl": "Uluslararası"
   },
   {
     "name": "TRT Belgesel",
-    "streamUrl": "https://tv-trtbelgesel.medya.trt.com.tr/master.m3u8",
-    "logoUrl": "",
-    "category": "Belgesel"
+    "url": "https://tv-trtbelgesel.medya.trt.com.tr/master.m3u8",
+    "description": "",
+    "thumbnailUrl": "Belgesel"
   }
   
   
