@@ -1,0 +1,177 @@
+[
+  {
+    "name": "TRT Haber",
+    "url": "https://tv-trthaber.medya.trt.com.tr/master.m3u8",
+    "description": "TRT Haber",
+    "thumbnailUrl": "https://www.trthaber.com/assets/img/logo.png"
+  },
+  {
+    "name": "Halk TV",
+    "url": "https://halktv-live.daioncdn.net/halktv/halktv.m3u8",
+    "description": "Halk TV",
+    "thumbnailUrl": "https://www.halktv.com.tr/assets/img/logo.png"
+  },
+  {
+    "name": "Tele 1",
+    "url": "https://tele1-live.ercdn.net/tele1/tele1.m3u8",
+    "description": "Tele 1",
+    "thumbnailUrl": "https://www.tele1.com.tr/assets/img/logo.png"
+  },
+  {
+    "name": "TGRT Haber",
+    "url": "https://canli.tgrthaber.com/tgrt.m3u8",
+    "description": "TGRT Haber",
+    "thumbnailUrl": "https://www.tgrthaber.com/assets/img/logo.png"
+  },
+  {
+    "name": "TV 100",
+    "url": "https://tv100-live.daioncdn.net/tv100/tv100.m3u8",
+    "description": "TV 100",
+    "thumbnailUrl": "https://www.tv100.com.tr/assets/img/logo.png"
+  },
+  {
+    "name": "Bloomberg HT",
+    "url": "https://tv.ensonhaber.com/bloomberght/bloomberght.m3u8",
+    "description": "Bloomberg HT",
+    "thumbnailUrl": "https://www.bloomberght.com/assets/img/logo.png"
+  },
+  {
+    "name": "TRT 1",
+    "url": "https://tv-trt1.medya.trt.com.tr/master.m3u8",
+    "description": "TRT Ana Kanal",
+    "thumbnailUrl": "https://www.trt1.com.tr/assets/img/logo.png"
+  },
+  {
+    "name": "Kanal D",
+    "url": "https://demiroren.daioncdn.net/kanald/kanald.m3u8?app=kanald_web&ce=3",
+    "description": "Kanal D",
+    "thumbnailUrl": "https://www.kanald.com.tr/assets/img/logo.png"
+  },
+  {
+    "name": "Kanal 7",
+    "url": "https://kanal7-live.daioncdn.net/kanal7/kanal7.m3u8",
+    "description": "Kanal 7",
+    "thumbnailUrl": "https://www.kanal7.com.tr/assets/img/logo.png"
+  },
+  {
+    "name": "NOW TV",
+    "url": "https://uycyyuuzyh.turknet.ercdn.net/nphindgytw/nowtv/nowtv.m3u8",
+    "description": "NOW TV",
+    "thumbnailUrl": "https://www.nowtv.com.tr/assets/img/logo.png"
+  },
+  {
+    "name": "Beyaz TV",
+    "url": "https://beyaztv.daioncdn.net/beyaztv/beyaztv.m3u8?app=fcd5c66b-da9d-44ba-a410-4f34805c397d&ce=3",
+    "description": "Beyaz TV",
+    "thumbnailUrl": "https://www.beyaztv.com.tr/assets/img/logo.png"
+  },
+  {
+    "name": "360 TV",
+    "url": "https://turkmedya-live.ercdn.net/tv360/tv360.m3u8",
+    "description": "360 TV",
+    "thumbnailUrl": "https://www.360tv.com.tr/assets/img/logo.png"
+  },
+  {
+    "name": "TJK TV",
+    "url": "https://tjktv-live.tjk.org/tjktv.m3u8",
+    "description": "TJK TV",
+    "thumbnailUrl": "https://www.tjk.org/assets/img/logo.png"
+  },
+  {
+    "name": "TRT Müzik",
+    "url": "https://tv-trtmuzik.medya.trt.com.tr/master.m3u8",
+    "description": "TRT Müzik",
+    "thumbnailUrl": "https://www.trtmuzik.com.tr/assets/img/logo.png"
+  },
+  {
+    "name": "Dream Türk",
+    "url": "https://live.duhnet.tv/S2/HLS_LIVE/dreamturknp/playlist.m3u8",
+    "description": "Dream Türk",
+    "thumbnailUrl": "https://www.dream.com.tr/assets/img/logo.png"
+  },
+  {
+    "name": "TRT Çocuk",
+    "url": "https://tv-trtcocuk.medya.trt.com.tr/master.m3u8",
+    "description": "TRT Çocuk",
+    "thumbnailUrl": "https://www.trtcocuk.com.tr/assets/img/logo.png"
+  },
+  {
+    "name": "TRT Avaz",
+    "url": "https://tv-trtavaz.medya.trt.com.tr/master.m3u8",
+    "description": "",
+    "thumbnailUrl": "Uluslararası"
+  },
+  {
+    "name": "TRT Belgesel",
+    "url": "https://tv-trtbelgesel.medya.trt.com.tr/master.m3u8",
+    "description": "",
+    "thumbnailUrl": "Belgesel"
+  },
+
+  {
+    "name": "Habertürk",
+    "url": "https://www.haberturk.com/canliyayin",
+    "description": "Habertürk",
+    "thumbnailUrl": "https://www.haberturk.com/assets/img/logo.png"
+  },
+  {
+    "name": "ATV",
+    "url": "https://www.atv.com.tr/canli-yayin",
+    "description": "ATV",
+    "thumbnailUrl": "https://www.atv.com.tr/assets/img/logo.png"
+  },
+  {
+    "name": "TV8",
+    "url": "https://www.tv8.com.tr/canli-yayin",
+    "description": "TV8",
+    "thumbnailUrl": "https://www.tv8.com.tr/assets/img/logo.png"
+  },
+  {
+    "name": "Star TV",
+    "url": "https://www.startv.com.tr/canli-yayin",
+    "description": "Star TV",
+    "thumbnailUrl": "https://www.startv.com.tr/assets/img/logo.png"
+  },
+  {
+    "name": "Show TV",
+    "url": "https://www.showtv.com.tr/canli-yayin",
+    "description": "Show TV",
+    "thumbnailUrl": "https://www.showtv.com.tr/assets/img/logo.png"
+  },
+  {
+    "name": "Halk TV (Web)",
+    "url": "https://halktv.com.tr/canli-yayin",
+    "description": "Halk TV Web Yayını",
+    "thumbnailUrl": "https://www.halktv.com.tr/assets/img/logo.png"
+  },
+  {
+    "name": "CNN Türk",
+    "url": "https://www.cnnturk.com/canli-yayin",
+    "description": "CNN Türk",
+    "thumbnailUrl": "https://www.cnnturk.com/assets/img/logo.png"
+  },
+  {
+    "name": "NTV",
+    "url": "https://www.ntv.com.tr/canli-yayin/ntv",
+    "description": "NTV",
+    "thumbnailUrl": "https://www.ntv.com.tr/assets/img/logo.png"
+  },
+  {
+    "name": "TV100 (Web)",
+    "url": "https://www.tv100.com/canli-yayin",
+    "description": "TV100 Web Yayını",
+    "thumbnailUrl": "https://www.tv100.com/assets/img/logo.png"
+  },
+  {
+    "name": "Haber Global",
+    "url": "https://haberglobal.com/canli-yayin",
+    "description": "Haber Global",
+    "thumbnailUrl": "https://haberglobal.com.tr/assets/img/logo.png"
+  },
+  {
+    "name": "Bloomberg HT (Web)",
+    "url": "https://www.bloomberght.com/tv",
+    "description": "Bloomberg HT Web Yayını",
+    "thumbnailUrl": "https://www.bloomberght.com/assets/img/logo.png"
+  }
+]
