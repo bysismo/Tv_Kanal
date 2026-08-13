@@ -1,114 +1,541 @@
 [
   {
-    "name": "TRT Haber",
-    "url": "https://tv-trthaber.medya.trt.com.tr/master.m3u8",
-    "description": "TRT Haber",
-    "thumbnailUrl": "https://www.trthaber.com/assets/img/logo.png"
-  },
-  
-  {
-    "name": "Halk TV",
-    "url": "https://halktv-live.daioncdn.net/halktv/halktv.m3u8",
-    "description": "Halk TV",
-    "thumbnailUrl": "https://www.halktv.com.tr/assets/img/logo.png"
+    "id": "atv-izle",
+    "name": "ATV",
+    "url": "https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/atv/atv.m3u8",
+    "thumbnailUrl": "https://tr.canlitv.watch/channels/atv-izle.webp",
+    "description": "Ulusal"
   },
   {
-    "name": "Tele 1",
-    "url": "https://tele1-live.ercdn.net/tele1/tele1.m3u8",
-    "description": "Tele 1",
-    "thumbnailUrl": "https://www.tele1.com.tr/assets/img/logo.png"
+    "id": "beyaz-tv",
+    "name": "Beyaz TV",
+    "url": "https://beyaztv-live.daioncdn.net/beyaztv/beyaztv.m3u8",
+    "thumbnailUrl": "https://tr.canlitv.watch/channels/beyaz-tv.webp",
+    "description": "Ulusal"
   },
   {
-    "name": "TGRT Haber",
-    "url": "https://canli.tgrthaber.com/tgrt.m3u8",
-    "description": "TGRT Haber",
-    "thumbnailUrl": "https://www.tgrthaber.com/assets/img/logo.png"
+    "id": "euro-d-izle",
+    "name": "Euro D",
+    "url": "https://tatatam.trt1sultanfatihss.workers.dev/https://live.duhnet.tv/S2/HLS_LIVE/eurodnp/playlist.m3u8",
+    "thumbnailUrl": "https://tr.canlitv.watch/channels/euro-d-izle.webp",
+    "description": "Ulusal"
   },
   {
-    "name": "TV 100",
-    "url": "https://tv100-live.daioncdn.net/tv100/tv100.m3u8",
-    "description": "TV 100",
-    "thumbnailUrl": "https://www.tv100.com.tr/assets/img/logo.png"
+    "id": "euro-star",
+    "name": "Euro Star",
+    "url": "https://dogusdyg-eurostar.lg.mncdn.com/dogusdyg_eurostar/live.m3u8?st=snQPxUJ9fk74spG_80p9tw&e=1783499148",
+    "thumbnailUrl": "https://tr.canlitv.watch/channels/euro-star.webp",
+    "description": "Ulusal"
   },
   {
-    "name": "Bloomberg HT",
-    "url": "https://tv.ensonhaber.com/bloomberght/bloomberght.m3u8",
-    "description": "Bloomberg HT",
-    "thumbnailUrl": "https://www.bloomberght.com/assets/img/logo.png"
-  },
-
-  {
-    "name": "TRT 1",
-    "url": "https://tv-trt1.medya.trt.com.tr/master.m3u8",
-    "description": "TRT Ana Kanal",
-    "thumbnailUrl": "https://www.trt1.com.tr/assets/img/logo.png"
-  },
-  {
-    "name": "Kanal D",
-    "url": "https://demiroren.daioncdn.net/kanald/kanald.m3u8?app=kanald_web&ce=3",
-    "description": "Kanal D",
-    "thumbnailUrl": "https://www.kanald.com.tr/assets/img/logo.png"
-  },
-  {
+    "id": "kanal-7",
     "name": "Kanal 7",
     "url": "https://kanal7-live.daioncdn.net/kanal7/kanal7.m3u8",
-    "description": "Kanal 7",
-    "thumbnailUrl": "https://www.kanal7.com.tr/assets/img/logo.png"
+    "thumbnailUrl": "https://tr.canlitv.watch/channels/kanal-7.webp",
+    "description": "Ulusal"
   },
   {
-    "name": "NOW TV",
+    "id": "kanal-d",
+    "name": "Kanal D",
+    "url": "https://tr.canlitv.watch/cixo/kanald.m3u8?t=7f2368572f92f8cf1a7cc85de235b0d5ff68afb68a8597de63386c486bd1865a",
+    "thumbnailUrl": "https://tr.canlitv.watch/channels/kanal-d.webp",
+    "description": "Ulusal"
+  },
+  {
+    "id": "kanal-plus",
+    "name": "Kanal Plus",
+    "url": "https://live.artidijitalmedya.com/artidijital_kanalplus/kanalplus/mpeg/chunks.m3u8",
+    "thumbnailUrl": "https://tr.canlitv.watch/channels/kanal-plus.webp",
+    "description": "Ulusal"
+  },
+  {
+    "id": "nowtv-canli",
+    "name": "Now TV",
     "url": "https://uycyyuuzyh.turknet.ercdn.net/nphindgytw/nowtv/nowtv.m3u8",
-    "description": "NOW TV",
-    "thumbnailUrl": "https://www.nowtv.com.tr/assets/img/logo.png"
+    "thumbnailUrl": "https://tr.canlitv.watch/channels/nowtv-canli.webp",
+    "description": "Ulusal"
   },
   {
-    "name": "Beyaz TV",
-    "url": "https://beyaztv.daioncdn.net/beyaztv/beyaztv.m3u8?app=fcd5c66b-da9d-44ba-a410-4f34805c397d&ce=3",
-    "description": "Beyaz TV",
-    "thumbnailUrl": "https://www.beyaztv.com.tr/assets/img/logo.png"
+    "id": "star-tv",
+    "name": "Star TV",
+    "url": "https://dygvideo.dygdigital.com/live/hls/startv4puhu/live.m3u8",
+    "thumbnailUrl": "https://tr.canlitv.watch/channels/star-tv.webp",
+    "description": "Ulusal"
   },
   {
-    "name": "360 TV",
-    "url": "https://turkmedya-live.ercdn.net/tv360/tv360.m3u8",
-    "description": "360 TV",
-    "thumbnailUrl": "https://www.360tv.com.tr/assets/img/logo.png"
+    "id": "trt-1",
+    "name": "TRT 1",
+    "url": "https://tv-trt1.medya.trt.com.tr/master.m3u8",
+    "thumbnailUrl": "https://tr.canlitv.watch/channels/trt-1.webp",
+    "description": "Ulusal"
   },
   {
-    "name": "TJK TV",
-    "url": "https://tjktv-live.tjk.org/tjktv.m3u8",
-    "description": "TJK TV",
-    "thumbnailUrl": "https://www.tjk.org/assets/img/logo.png"
+    "id": "trt-2",
+    "name": "TRT 2",
+    "url": "https://tv-trt2.medya.trt.com.tr/master.m3u8",
+    "thumbnailUrl": "https://tr.canlitv.watch/channels/trt-2.webp",
+    "description": "Ulusal"
   },
   {
-    "name": "TRT Müzik",
-    "url": "https://tv-trtmuzik.medya.trt.com.tr/master.m3u8",
-    "description": "TRT Müzik",
-    "thumbnailUrl": "https://www.trtmuzik.com.tr/assets/img/logo.png"
+    "id": "tv8",
+    "name": "TV8",
+    "url": "https://rkhubpaomb.turknet.ercdn.net/fwjkgpasof/tv8/tv8_480p.m3u8",
+    "thumbnailUrl": "https://tr.canlitv.watch/channels/tv8.webp",
+    "description": "Ulusal"
   },
   {
-    "name": "Dream Türk",
-    "url": "https://live.duhnet.tv/S2/HLS_LIVE/dreamturknp/playlist.m3u8",
-    "description": "Dream Türk",
-    "thumbnailUrl": "https://www.dream.com.tr/assets/img/logo.png"
+    "id": "tv8-5",
+    "name": "TV8,5",
+    "url": "https://rkhubpaomb.turknet.ercdn.net/fwjkgpasof/tv8bucuk/tv8bucuk.m3u8",
+    "thumbnailUrl": "https://tr.canlitv.watch/channels/tv8-5.webp",
+    "description": "Ulusal"
   },
   {
+    "id": "a-news",
+    "name": "A News",
+    "url": "https://www.youtube.com/embed/live_stream?rel=0&autoplay=1&channel=UC-LRBEUet4xX2fRB3JitFxg&ss=1",
+    "thumbnailUrl": "https://tr.canlitv.watch/channels/a-news.webp",
+    "description": "Haber"
+  },
+  {
+    "id": "benguturk-tv",
+    "name": "Bengütürk Tv",
+    "url": "https://tv.ensonhaber.com/benguturk/benguturk.m3u8",
+    "thumbnailUrl": "https://tr.canlitv.watch/channels/benguturk-tv.webp",
+    "description": "Haber"
+  },
+  {
+    "id": "bloomberg-ht",
+    "name": "Bloomberg HT",
+    "url": "https://rmtftbjlne.turknet.ercdn.net/bpeytmnqyp/bloomberght/bloomberght.m3u8",
+    "thumbnailUrl": "https://tr.canlitv.watch/channels/bloomberg-ht.webp",
+    "description": "Haber"
+  },
+  {
+    "id": "cnbc-e",
+    "name": "CNBC-e",
+    "url": "https://hnpsechtsc.turknet.ercdn.net/xpnvudnlsv/cnbc-e/cnbc-e.m3u8",
+    "thumbnailUrl": "https://tr.canlitv.watch/channels/cnbc-e.webp",
+    "description": "Haber"
+  },
+  {
+    "id": "flash-haber-tv",
+    "name": "Flash Haber TV",
+    "url": "https://b01c02nl.mediatriple.net/videoonlylive/mtyycglqauzjhlive/broadcast_67c053c48829f.smil/mt_0.m3u8",
+    "thumbnailUrl": "https://tr.canlitv.watch/channels/flash-haber-tv.webp",
+    "description": "Haber"
+  },
+  {
+    "id": "haberturk",
+    "name": "Habertürk",
+    "url": "https://rmtftbjlne.turknet.ercdn.net/bpeytmnqyp/haberturktv/haberturktv.m3u8",
+    "thumbnailUrl": "https://tr.canlitv.watch/channels/haberturk.webp",
+    "description": "Haber"
+  },
+  {
+    "id": "halk-tv",
+    "name": "Halk TV",
+    "url": "https://halktv-live.daioncdn.net/halktv/halktv.m3u8",
+    "thumbnailUrl": "https://tr.canlitv.watch/channels/halk-tv.webp",
+    "description": "Haber"
+  },
+  {
+    "id": "neo-haber",
+    "name": "Neo Haber TV",
+    "url": "https://edge.taksimbilisim.com/neohaber/bant1/playlist.m3u8",
+    "thumbnailUrl": "https://tr.canlitv.watch/channels/neo-haber.webp",
+    "description": "Haber"
+  },
+  {
+    "id": "tbmm-tv",
+    "name": "TBMM TV",
+    "url": "https://meclistv-live.ercdn.net/meclistv/meclistv.m3u8",
+    "thumbnailUrl": "https://tr.canlitv.watch/channels/tbmm-tv.webp",
+    "description": "Haber"
+  },
+  {
+    "id": "tgrt-haber",
+    "name": "TGRT Haber",
+    "url": "https://canli.tgrthaber.com/tgrt.m3u8",
+    "thumbnailUrl": "https://tr.canlitv.watch/channels/tgrt-haber.webp",
+    "description": "Haber"
+  },
+  {
+    "id": "trt-haber",
+    "name": "TRT Haber",
+    "url": "https://tv-trthaber.medya.trt.com.tr/master.m3u8",
+    "thumbnailUrl": "https://tr.canlitv.watch/channels/trt-haber.webp",
+    "description": "Haber"
+  },
+  {
+    "id": "tvnet",
+    "name": "TVNET",
+    "url": "https://www.youtube.com/embed/live_stream?rel=0&autoplay=1&channel=UC8rh34IlJTN0lDZlTwzWzjg&ss=1",
+    "thumbnailUrl": "https://tr.canlitv.watch/channels/tvnet.webp",
+    "description": "Haber"
+  },
+  {
+    "id": "tyt-turk",
+    "name": "TYT Türk",
+    "url": "https://tytturk-live.ercdn.net/tytturk/tytturk.m3u8",
+    "thumbnailUrl": "https://tr.canlitv.watch/channels/tyt-turk.webp",
+    "description": "Haber"
+  },
+  {
+    "id": "telenews-tv",
+    "name": "Telenews TV",
+    "url": "https://cdn-telenews.yayin.com.tr/telenews/index.m3u8",
+    "thumbnailUrl": "https://tr.canlitv.watch/channels/telenews-tv.webp",
+    "description": "Haber"
+  },
+  {
+    "id": "ulke-tv",
+    "name": "Ülke TV",
+    "url": "https://livetv.radyotvonline.net/kanal7live/ulketv/playlist.m3u8",
+    "thumbnailUrl": "https://tr.canlitv.watch/channels/ulke-tv.webp",
+    "description": "Haber"
+  },
+  {
+    "id": "fb-tv",
+    "name": "FB TV",
+    "url": "https://fbtv.fenerbahce.org/fenerbahcetv.stream/playlist.m3u8",
+    "thumbnailUrl": "https://tr.canlitv.watch/channels/fb-tv.webp",
+    "description": "Spor"
+  },
+  {
+    "id": "ht-spor",
+    "name": "HT Spor",
+    "url": "https://rmtftbjlne.turknet.ercdn.net/bpeytmnqyp/ht-spor/ht-spor.m3u8",
+    "thumbnailUrl": "https://tr.canlitv.watch/channels/ht-spor.webp",
+    "description": "Spor"
+  },
+  {
+    "id": "trt-spor",
+    "name": "TRT Spor",
+    "url": "https://tv-trtspor1.medya.trt.com.tr/master.m3u8",
+    "thumbnailUrl": "https://tr.canlitv.watch/channels/trt-spor.webp",
+    "description": "Spor"
+  },
+  {
+    "id": "trt-spor-yildiz",
+    "name": "TRT Spor Yıldız",
+    "url": "https://tv-trtspor2.medya.trt.com.tr/master.m3u8",
+    "thumbnailUrl": "https://tr.canlitv.watch/channels/trt-spor-yildiz.webp",
+    "description": "Spor"
+  },
+  {
+    "id": "tgrt-belgesel",
+    "name": "TGRT Belgesel",
+    "url": "https://www.youtube.com/embed/live_stream?channel=UCkQV7uH1Otv47CZz6tD3jGQ&autoplay=1&mute=1",
+    "thumbnailUrl": "https://tr.canlitv.watch/channels/tgrt-belgesel.webp",
+    "description": "Belgesel"
+  },
+  {
+    "id": "trt-belgesel",
+    "name": "TRT Belgesel",
+    "url": "https://tv-trtbelgesel-dai.medya.trt.com.tr/master.m3u8",
+    "thumbnailUrl": "https://tr.canlitv.watch/channels/trt-belgesel.webp",
+    "description": "Belgesel"
+  },
+  {
+    "id": "minika-go",
+    "name": "Minika GO",
+    "url": "https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/minikago/minikago.m3u8",
+    "thumbnailUrl": "https://tr.canlitv.watch/channels/minika-go.webp",
+    "description": "Çocuk & Gençlik"
+  },
+  {
+    "id": "minika-cocuk",
+    "name": "Minika Çocuk",
+    "url": "https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/minikago_cocuk/minikago_cocuk.m3u8",
+    "thumbnailUrl": "https://tr.canlitv.watch/channels/minika-cocuk.webp",
+    "description": "Çocuk & Gençlik"
+  },
+  {
+    "id": "trt-eba-tv-ilkokul",
+    "name": "TRT Eba TV İlkokul",
+    "url": "https://tv-e-okul01.medya.trt.com.tr/master.m3u8",
+    "thumbnailUrl": "https://tr.canlitv.watch/channels/trt-eba-tv-ilkokul.webp",
+    "description": "Çocuk & Gençlik"
+  },
+  {
+    "id": "trt-genc",
+    "name": "TRT Genç",
+    "url": "https://tv-trtgenc.medya.trt.com.tr/master.m3u8",
+    "thumbnailUrl": "https://tr.canlitv.watch/channels/trt-genc.webp",
+    "description": "Çocuk & Gençlik"
+  },
+  {
+    "id": "trt-cocuk",
     "name": "TRT Çocuk",
     "url": "https://tv-trtcocuk.medya.trt.com.tr/master.m3u8",
-    "description": "TRT Çocuk",
-    "thumbnailUrl": "https://www.trtcocuk.com.tr/assets/img/logo.png"
+    "thumbnailUrl": "https://tr.canlitv.watch/channels/trt-cocuk.webp",
+    "description": "Çocuk & Gençlik"
   },
   {
+    "id": "fashion-one-tv",
+    "name": "Fashion One Tv",
+    "url": "https://b01c02nl.mediatriple.net/videoonlylive/mtkgeuihrlfwlive/broadcast_5c9e2ee690051.smil/playlist.m3u8",
+    "thumbnailUrl": "https://tr.canlitv.watch/channels/fashion-one-tv.webp",
+    "description": "Müzik & Yaşam"
+  },
+  {
+    "id": "kral-pop-tv",
+    "name": "Kral Pop TV",
+    "url": "https://dygvideo.dygdigital.com/live/hls/kralpop?token=%20:%20/live.m3u8",
+    "thumbnailUrl": "https://tr.canlitv.watch/channels/kral-pop-tv.webp",
+    "description": "Müzik & Yaşam"
+  },
+  {
+    "id": "kral-tv",
+    "name": "Kral TV",
+    "url": "https://dygvideo.dygdigital.com/live/hls/kralpop?m3u8",
+    "thumbnailUrl": "https://tr.canlitv.watch/channels/kral-tv.webp",
+    "description": "Müzik & Yaşam"
+  },
+  {
+    "id": "number-one-ask-tv",
+    "name": "Number1 Aşk TV",
+    "url": "https://b01c02nl.mediatriple.net/videoonlylive/mtkgeuihrlfwlive/broadcast_5c9e18f9c54e6.smil/playlist.m3u8",
+    "thumbnailUrl": "https://tr.canlitv.watch/channels/number-one-ask-tv.webp",
+    "description": "Müzik & Yaşam"
+  },
+  {
+    "id": "number-one-damar-tv",
+    "name": "Number1 Damar TV",
+    "url": "https://b01c02nl.mediatriple.net/videoonlylive/mtkgeuihrlfwlive/broadcast_5c9e19877b340.smil/playlist.m3u8",
+    "thumbnailUrl": "https://tr.canlitv.watch/channels/number-one-damar-tv.webp",
+    "description": "Müzik & Yaşam"
+  },
+  {
+    "id": "number-one-dance-tv",
+    "name": "Number1 Dance TV",
+    "url": "https://b01c02nl.mediatriple.net/videoonlylive/mtkgeuihrlfwlive/broadcast_5c9e2aa89e721.smil/playlist.m3u8",
+    "thumbnailUrl": "https://tr.canlitv.watch/channels/number-one-dance-tv.webp",
+    "description": "Müzik & Yaşam"
+  },
+  {
+    "id": "trt-muzik",
+    "name": "TRT Müzik",
+    "url": "https://tv-trtmuzik.medya.trt.com.tr/master_480.m3u8",
+    "thumbnailUrl": "https://tr.canlitv.watch/channels/trt-muzik.webp",
+    "description": "Müzik & Yaşam"
+  },
+  {
+    "id": "cem-tv",
+    "name": "Cem TV",
+    "url": "https://tv.cemtv.net:19360/cemtv/cemtv.m3u8",
+    "thumbnailUrl": "https://tr.canlitv.watch/channels/cem-tv.webp",
+    "description": "Dini & Kültür"
+  },
+  {
+    "id": "diyanet-tv",
+    "name": "Diyanet TV",
+    "url": "https://b01c02nl.mediatriple.net/videoonlylive/mtikoimxnztxlive/broadcast_5e3bf95a47e07.smil/playlist.m3u8",
+    "thumbnailUrl": "https://tr.canlitv.watch/channels/diyanet-tv.webp",
+    "description": "Dini & Kültür"
+  },
+  {
+    "id": "dost-tv",
+    "name": "Dost TV",
+    "url": "https://dost.stream.emsal.im/tv/live.m3u8",
+    "thumbnailUrl": "https://tr.canlitv.watch/channels/dost-tv.webp",
+    "description": "Dini & Kültür"
+  },
+  {
+    "id": "kabe-tv",
+    "name": "Kabe TV",
+    "url": "https://www.youtube.com/embed/live_stream?channel=UCos52azQNBgW63_9uDJoPDA&autoplay=1&rel=0&loop=0&wmode=opaque&modestbranding=1&vq=hd1080&controls=1&showinfo=0",
+    "thumbnailUrl": "https://tr.canlitv.watch/channels/kabe-tv.webp",
+    "description": "Dini & Kültür"
+  },
+  {
+    "id": "lalegul-tv",
+    "name": "Lalegül TV",
+    "url": "https://lbl.netmedya.net/hls/lalegultv.m3u8",
+    "thumbnailUrl": "https://tr.canlitv.watch/channels/lalegul-tv.webp",
+    "description": "Dini & Kültür"
+  },
+  {
+    "id": "medine-tv",
+    "name": "Medine TV",
+    "url": "https://www.youtube.com/embed/live_stream?channel=UCROKYPep-UuODNwyipe6JMw&autoplay=1&rel=0&loop=0&wmode=opaque&modestbranding=1&vq=hd1080&controls=1&showinfo=0",
+    "thumbnailUrl": "https://tr.canlitv.watch/channels/medine-tv.webp",
+    "description": "Dini & Kültür"
+  },
+  {
+    "id": "mekke-tv",
+    "name": "Mekke TV",
+    "url": "https://www.youtube.com/embed/live_stream?channel=UCos52azQNBgW63_9uDJoPDA&autoplay=1&rel=0&loop=0&wmode=opaque&modestbranding=1&vq=hd1080&controls=1&showinfo=0",
+    "thumbnailUrl": "https://tr.canlitv.watch/channels/mekke-tv.webp",
+    "description": "Dini & Kültür"
+  },
+  {
+    "id": "rehber-tv",
+    "name": "Rehber Tv",
+    "url": "https://cdn4.yayin.com.tr/rehbertv/tracks-v1a1/mono.m3u8",
+    "thumbnailUrl": "https://tr.canlitv.watch/channels/rehber-tv.webp",
+    "description": "Dini & Kültür"
+  },
+  {
+    "id": "semerkand-tv",
+    "name": "Semerkand TV",
+    "url": "https://b01c02nl.mediatriple.net/videoonlylive/mtisvwurbfcyslive/broadcast_58d915bd40efc.smil/playlist.m3u8",
+    "thumbnailUrl": "https://tr.canlitv.watch/channels/semerkand-tv.webp",
+    "description": "Dini & Kültür"
+  },
+  {
+    "id": "sercem-tv",
+    "name": "Sercem TV",
+    "url": "https://canli.sercemtv.com.tr/hls/0/stream.m3u8",
+    "thumbnailUrl": "https://tr.canlitv.watch/channels/sercem-tv.webp",
+    "description": "Dini & Kültür"
+  },
+  {
+    "id": "vav-tv",
+    "name": "Vav Tv",
+    "url": "https://www.youtube.com/embed/live_stream?rel=0&autoplay=1&channel=UCmMPdW0rtbEI_XyIsMlMnqg&ss=1",
+    "thumbnailUrl": "https://tr.canlitv.watch/channels/vav-tv.webp",
+    "description": "Dini & Kültür"
+  },
+  {
+    "id": "atv-azad-tv",
+    "name": "ATV Azad Tv",
+    "url": "https://lives.atv.az:5443/ATV_TV_STREAM/streams/atvcanli.m3u8",
+    "thumbnailUrl": "https://tr.canlitv.watch/channels/atv-azad-tv.webp",
+    "description": "Azerbaycan & KKTC"
+  },
+  {
+    "id": "ayaz-tv",
+    "name": "Ayaz TV",
+    "url": "https://janya-ayaztv.vgcdn.net/ptnr-WebApp/title-Ayaz_TV/v1/vglive-sk-934820/main.m3u8",
+    "thumbnailUrl": "https://tr.canlitv.watch/channels/ayaz-tv.webp",
+    "description": "Azerbaycan & KKTC"
+  },
+  {
+    "id": "az-tv",
+    "name": "Az TV",
+    "url": "https://str.yodacdn.net/azertv/tracks-v2a1/mono.ts.m3u8",
+    "thumbnailUrl": "https://tr.canlitv.watch/channels/az-tv.webp",
+    "description": "Azerbaycan & KKTC"
+  },
+  {
+    "id": "baku-tv",
+    "name": "Baku TV",
+    "url": "https://rtmp.baku.tv/hls/bakutv.m3u8",
+    "thumbnailUrl": "https://tr.canlitv.watch/channels/baku-tv.webp",
+    "description": "Azerbaycan & KKTC"
+  },
+  {
+    "id": "trt-arapca",
+    "name": "TRT Arapça",
+    "url": "https://tv-trtarabi.medya.trt.com.tr/master.m3u8",
+    "thumbnailUrl": "https://tr.canlitv.watch/channels/trt-arapca.webp",
+    "description": "Azerbaycan & KKTC"
+  },
+  {
+    "id": "trt-avaz",
     "name": "TRT Avaz",
-    "url": "https://tv-trtavaz.medya.trt.com.tr/master.m3u8",
-    "description": "",
-    "thumbnailUrl": "Uluslararası"
+    "url": "https://tv-trtavaz.medya.trt.com.tr/master_480.m3u8",
+    "thumbnailUrl": "https://tr.canlitv.watch/channels/trt-avaz.webp",
+    "description": "Azerbaycan & KKTC"
   },
   {
-    "name": "TRT Belgesel",
-    "url": "https://tv-trtbelgesel.medya.trt.com.tr/master.m3u8",
-    "description": "",
-    "thumbnailUrl": "Belgesel"
+    "id": "trt-world",
+    "name": "TRT World",
+    "url": "https://tv-trtworld.medya.trt.com.tr/master.m3u8",
+    "thumbnailUrl": "https://tr.canlitv.watch/channels/trt-world.webp",
+    "description": "Azerbaycan & KKTC"
+  },
+  {
+    "id": "xezer-tv",
+    "name": "Xezer TV",
+    "url": "https://xezerxeber.az/stream/main_stream.m3u8",
+    "thumbnailUrl": "https://tr.canlitv.watch/channels/xezer-tv.webp",
+    "description": "Azerbaycan & KKTC"
+  },
+  {
+    "id": "asf-tv",
+    "name": "ASF TV",
+    "url": "https://cdn4.yayin.com.tr/serhattv/tracks-v1a1/mono.m3u8",
+    "thumbnailUrl": "https://tr.canlitv.watch/channels/asf-tv.webp",
+    "description": "Yerel TV"
+  },
+  {
+    "id": "tgrt-eu",
+    "name": "TGRT EU",
+    "url": "https://www.youtube.com/embed/live_stream?channel=UCnwi4koEwXv4A5xTvkiWzWw&autoplay=1&mute=1",
+    "thumbnailUrl": "https://tr.canlitv.watch/channels/tgrt-eu.webp",
+    "description": "Yerel TV"
+  },
+  {
+    "id": "vuslat-tv",
+    "name": "Vuslat Tv",
+    "url": "https://live.artidijitalmedya.com/artidijital_vuslattv/vuslattv/chunks.m3u8",
+    "thumbnailUrl": "https://tr.canlitv.watch/channels/vuslat-tv.webp",
+    "description": "Yerel TV"
+  },
+  {
+    "id": "al-arabiya",
+    "name": "Al Arabiya Watch Online - Al Arabiya News Live Stream",
+    "url": "https://www.youtube.com/embed/live_stream?rel=0&autoplay=1&channel=UCahpxixMCwoANAftn6IxkTg&ss=1",
+    "thumbnailUrl": "https://tr.canlitv.watch/channels/al-arabiya.webp",
+    "description": "Yabancı"
+  },
+  {
+    "id": "al-azeera-arabic",
+    "name": "Al Jazeera Arabic",
+    "url": "https://live-hls-web-aja.getaj.net/AJA/index.m3u8",
+    "thumbnailUrl": "https://tr.canlitv.watch/channels/al-azeera-arabic.webp",
+    "description": "Yabancı"
+  },
+  {
+    "id": "al-azeera-balkans",
+    "name": "Al Jazeera Balkans",
+    "url": "https://live-hls-web-aje-gcp.thehlive.com/AJE/01.m3u8",
+    "thumbnailUrl": "https://tr.canlitv.watch/channels/al-azeera-balkans.webp",
+    "description": "Yabancı"
+  },
+  {
+    "id": "al-jezeera-english",
+    "name": "Al Jazeera English",
+    "url": "https://d1cy85syyhvqz5.cloudfront.net/v1/master/7b67fbda7ab859400a821e9aa0deda20ab7ca3d2/aljazeeraLive/AJE/index.m3u8",
+    "thumbnailUrl": "https://tr.canlitv.watch/channels/al-jezeera-english.webp",
+    "description": "Yabancı"
+  },
+  {
+    "id": "comedy-central",
+    "name": "Comedy Central Online Fernsehen - Comedy Central Live Stream",
+    "url": "https://s6.hopslan.com/vivaX/index.m3u8",
+    "thumbnailUrl": "https://tr.canlitv.watch/channels/comedy-central.webp",
+    "description": "Yabancı"
+  },
+  {
+    "id": "dw-news",
+    "name": "DW News Watch Online - DW News Live Stream",
+    "url": "https://www.youtube.com/embed/live_stream?rel=0&autoplay=1&channel=UCknLrEdhRCp1aegoMqRaCZg&ss=1",
+    "thumbnailUrl": "https://tr.canlitv.watch/channels/dw-news.webp",
+    "description": "Yabancı"
+  },
+  {
+    "id": "euronews",
+    "name": "EuroNews Watch Online - EuroNews Live Stream",
+    "url": "https://www.youtube.com/embed/live_stream?rel=0&autoplay=1&channel=UCACdxU3VrJIJc7ujxtHWs1w&ss=1",
+    "thumbnailUrl": "https://tr.canlitv.watch/channels/euronews.webp",
+    "description": "Yabancı"
+  },
+  {
+    "id": "nasa-tv",
+    "name": "Nasa TV Watch Online - Nasa TV Live Stream",
+    "url": "https://www.youtube.com/embed/live_stream?rel=0&autoplay=1&channel=xCrPD7tfcr0&ss=1",
+    "thumbnailUrl": "https://tr.canlitv.watch/channels/nasa-tv.webp",
+    "description": "Yabancı"
+  },
+  {
+    "id": "rt-news",
+    "name": "RT News Watch Online - RT News Live Stream",
+    "url": "https://rt-glb.rttv.com/live/rtnews/playlist.m3u8",
+    "thumbnailUrl": "https://tr.canlitv.watch/channels/rt-news.webp",
+    "description": "Yabancı"
   }
-  
-  
 ]
