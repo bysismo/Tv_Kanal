@@ -1,4 +1,11 @@
 [
+    {
+    "id": "halk-tv",
+    "name": "Halk TV",
+    "url": "https://halktv-live.daioncdn.net/halktv/halktv.m3u8",
+    "thumbnailUrl": "https://tr.canlitv.watch/channels/halk-tv.webp",
+    "description": "Haber"
+  },
   {
     "id": "trt-1",
     "name": "TRT 1",
@@ -6,6 +13,27 @@
     "thumbnailUrl": "https://tr.canlitv.watch/channels/trt-1.webp",
     "description": "Ulusal"
   },
+    {
+    "id": "trt-haber",
+    "name": "TRT Haber",
+    "url": "https://tv-trthaber.medya.trt.com.tr/master.m3u8",
+    "thumbnailUrl": "https://tr.canlitv.watch/channels/trt-haber.webp",
+    "description": "Haber"
+  },
+  {
+    "id": "haberturk",
+    "name": "Habertürk",
+    "url": "https://rmtftbjlne.turknet.ercdn.net/bpeytmnqyp/haberturktv/haberturktv.m3u8",
+    "thumbnailUrl": "https://tr.canlitv.watch/channels/haberturk.webp",
+    "description": "Haber"
+  },
+  {
+  "id": "tv100",
+  "name": "TV100",
+  "url": "https://tv100-live.daioncdn.net/tv100/tv100.m3u8",
+  "thumbnailUrl": "https://s.tv100.com/assets/web/images/logo.svg",
+  "description": "Ulusal Haber"
+  },  
   {
     "id": "show-tv",
     "name": "Show TV",
@@ -96,34 +124,6 @@
     "url": "https://tatatam.trt1sultanfatihss.workers.dev/https://live.duhnet.tv/S2/HLS_LIVE/eurodnp/playlist.m3u8",
     "thumbnailUrl": "https://tr.canlitv.watch/channels/euro-d-izle.webp",
     "description": "Ulusal"
-  },
-  {
-    "id": "trt-haber",
-    "name": "TRT Haber",
-    "url": "https://tv-trthaber.medya.trt.com.tr/master.m3u8",
-    "thumbnailUrl": "https://tr.canlitv.watch/channels/trt-haber.webp",
-    "description": "Haber"
-  },
-  {
-    "id": "haberturk",
-    "name": "Habertürk",
-    "url": "https://rmtftbjlne.turknet.ercdn.net/bpeytmnqyp/haberturktv/haberturktv.m3u8",
-    "thumbnailUrl": "https://tr.canlitv.watch/channels/haberturk.webp",
-    "description": "Haber"
-  },
-  {
-    "id": "halk-tv",
-    "name": "Halk TV",
-    "url": "https://halktv-live.daioncdn.net/halktv/halktv.m3u8",
-    "thumbnailUrl": "https://tr.canlitv.watch/channels/halk-tv.webp",
-    "description": "Haber"
-  },
-  {
-    "id": "tele1",
-    "name": "Tele 1",
-    "url": "https://tele1-live.ercdn.net/tele1/tele1.m3u8",
-    "description": "Haber",
-    "thumbnailUrl": "https://www.tele1.com.tr/assets/img/logo.png"
   },
   {
     "id": "bloomberg-ht",
