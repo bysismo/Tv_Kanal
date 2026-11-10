@@ -1,21 +1,6 @@
 [
     
     {
-        "id": "krt-tv",
-        "name": "KRT TV",
-        "url": "https://www.youtube.com/watch?v=yRBufi6xue8",
-        "thumbnailUrl": "https://i.ytimg.com/vi/yRBufi6xue8/hqdefault.jpg",
-        "description": "Haber"
-    },
-    {
-        "id": "koza-tv",
-        "name": "Koza TV",
-        "url": "https://www.youtube.com/watch?v=rcZVJhX4aMU",
-        "thumbnailUrl": "https://i.ytimg.com/vi/rcZVJhX4aMU/hqdefault.jpg",
-        "description": "Haber"
-    },
-    
-    {
     "id": "halk-tv",
     "name": "Halk TV",
     "url": "https://halktv-live.daioncdn.net/halktv/halktv.m3u8",
